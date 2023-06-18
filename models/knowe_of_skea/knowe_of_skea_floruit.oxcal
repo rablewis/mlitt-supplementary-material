@@ -1,0 +1,163 @@
+// Delta_R values updated for Marine20
+ Options()
+ {
+  Floruit=FALSE;
+ };
+
+ Plot()
+ {
+  // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+  Curve("terrestrial", "intcal20.14c");
+  // define "marine" calibration curve (using OxCal pre-defined curve for Marine20: "marine20.14c")
+  Curve("marine","marine20.14c");
+  // define "local_marine" curve with an appropriate DeltaR - the local divergence from global marine curve (based on patterns of ocean currents)
+  // this DeltaR value is average of the 9 nearest measurements (those within 200 km of Kirkwall) from 14CHRONO db, relative to Marine20
+  Delta_R("local_marine",-112,34);
+  // mixed calibration curve with 12.9% +/- 10% marine carbon input
+  Mix_Curves("mixed_12_9", "terrestrial", "local_marine", 12.9, 10);
+  // etc.
+  Mix_Curves("mixed_14_1", "terrestrial", "local_marine", 14.1, 10);
+  Mix_Curves("mixed_15_3", "terrestrial", "local_marine", 15.3, 10);
+  Mix_Curves("mixed_16_5", "terrestrial", "local_marine", 16.5, 10);
+  Mix_Curves("mixed_20_0", "terrestrial", "local_marine", 20.0, 10);
+  Mix_Curves("mixed_21_2", "terrestrial", "local_marine", 21.2, 10);
+  Mix_Curves("mixed_22_4", "terrestrial", "local_marine", 22.4, 10);
+  Mix_Curves("mixed_23_5", "terrestrial", "local_marine", 23.5, 10);
+  Mix_Curves("mixed_24_7", "terrestrial", "local_marine", 24.7, 10);
+  Mix_Curves("mixed_25_9", "terrestrial", "local_marine", 25.9, 10);
+  Mix_Curves("mixed_27_1", "terrestrial", "local_marine", 27.1, 10);
+  Mix_Curves("mixed_28_2", "terrestrial", "local_marine", 28.2, 10);
+  Mix_Curves("mixed_29_4", "terrestrial", "local_marine", 29.4, 10);
+  Mix_Curves("mixed_30_6", "terrestrial", "local_marine", 30.6, 10);
+  Mix_Curves("mixed_31_8", "terrestrial", "local_marine", 31.8, 10);
+  Mix_Curves("mixed_35_3", "terrestrial", "local_marine", 35.3, 10);
+  Mix_Curves("mixed_36_5", "terrestrial", "local_marine", 36.5, 10);
+
+  Sequence("Knowe of Skea burials floruit")
+  {
+   Boundary("start Knowe of Skea burials");
+
+   Phase("Knowe of Skea burials")
+   {
+    Curve("=mixed_23_5");
+    R_Date("SUERC-8400", 2065, 35);
+
+    Curve("=mixed_21_2");
+    R_Date("SUERC-8401", 1950, 35);
+
+    Curve("=mixed_35_3");
+    R_Date("SUERC-8402", 2060, 35);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-8403", 1665, 35);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-8406", 2130, 35);
+
+    Curve("=mixed_23_5");
+    R_Date("SUERC-8410", 2095, 35);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-8411", 1915, 35);
+
+    Curve("=mixed_24_7");
+    R_Date("SUERC-8896", 1875, 35);
+
+    Curve("=mixed_29_4");
+    R_Date("SUERC-27910", 2030, 30);
+
+    Curve("=mixed_27_1");
+    R_Date("SUERC-27911", 2085, 30);
+
+    Curve("=mixed_31_8");
+    R_Date("SUERC-27912", 2010, 30);
+
+    Curve("=mixed_20_0");
+    R_Date("SUERC-27913", 1905, 30);
+
+    Curve("=mixed_31_8");
+    R_Date("SUERC-27914", 2025, 30);
+
+    Curve("=mixed_30_6");
+    R_Date("SUERC-27918", 2050, 30);
+
+    Curve("=mixed_20_0");
+    R_Date("SUERC-27919", 1960, 30);
+
+    Curve("=mixed_16_5");
+    R_Date("SUERC-27920", 1905, 30);
+
+    Curve("=mixed_23_5");
+    R_Date("SUERC-27921", 2000, 30);
+
+    Curve("=mixed_30_6");
+    R_Date("SUERC-27922", 2070, 30);
+
+    Curve("=mixed_28_2");
+    R_Date("SUERC-27923", 2070, 30);
+
+    Curve("=mixed_24_7");
+    R_Date("SUERC-35303", 2100, 30);
+
+    Curve("=mixed_31_8");
+    R_Date("SUERC-35304", 2060, 30);
+
+    Curve("=mixed_36_5");
+    R_Date("SUERC-35305", 2180, 30);
+
+    Curve("=mixed_14_1");
+    R_Date("SUERC-35306", 2140, 30);
+
+    Curve("=mixed_31_8");
+    R_Date("SUERC-35307", 2220, 30);
+
+    Curve("=mixed_22_4");
+    R_Date("SUERC-35308", 2125, 30);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-35309", 1815, 30);
+
+    Curve("=mixed_12_9");
+    R_Date("SUERC-35313", 1945, 30);
+
+    Curve("=mixed_12_9");
+    R_Date("SUERC-35314", 1950, 30);
+
+    Curve("=mixed_31_8");
+    R_Date("SUERC-35315", 1950, 30);
+
+/*
+    Curve("=terrestrial");
+    R_Date("SUERC-35316", 2680, 30); // S.F.1064, was found in a soil deposit laid below the wall of Structure H. These remains were of a perinate infant and were the only remains to predate the use of the site as a cemetery;
+*/
+
+    Curve("=terrestrial");
+    R_Date("SUERC-42223", 1878, 37);
+
+    Curve("=mixed_12_9");
+    R_Date("SUERC-42227", 1858, 37);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-42228", 2003, 37);
+
+    Curve("=terrestrial");
+    R_Date("SUERC-42229", 1892, 37);
+
+    Curve("=mixed_15_3");
+    R_Date("SUERC-42230", 2077, 37);
+
+    Curve("=mixed_16_5");
+    R_Date("SUERC-42231", 2028, 37);
+
+    Curve("=mixed_25_9");
+    R_Date("SUERC-42232", 2094, 37);
+
+    Curve("=mixed_15_3");
+    R_Date("SUERC-42233", 1854, 37);
+
+    Interval("duration Knowe of Skea burials");
+   };
+
+   Boundary("end Knowe of Skea burials");
+  };
+ };

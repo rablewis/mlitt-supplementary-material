@@ -1,0 +1,66 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+FALSE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+Phase 6.3 Label()
+GU-2244 R_Date(1530,120)
+  68.3% probability
+    422AD (61.7%) 612AD
+    616AD ( 6.6%) 640AD
+  95.4% probability
+    247AD (94.0%) 686AD
+    743AD ( 1.5%) 771AD
+Label()
+Phase 6.4 Label()
+GU-2243 R_Date(1610,110)
+  68.3% probability
+    266AD ( 1.4%) 272AD
+    352AD (66.9%) 570AD
+  95.4% probability
+    238AD (95.4%) 646AD
+Label()
+Phase 6.6 Label()
+GU-1999 R_Date(1520,50)
+  68.3% probability
+    440AD ( 8.6%) 460AD
+    478AD ( 8.4%) 496AD
+    534AD (51.2%) 604AD
+  95.4% probability
+    431AD (95.4%) 640AD
+Label()
+Phase 6.7 Label()
+GU-2000 R_Date(1480,50)
+  68.3% probability
+    560AD (68.3%) 640AD
+  95.4% probability
+    436AD ( 3.8%) 464AD
+    475AD ( 3.9%) 500AD
+    509AD ( 0.6%) 516AD
+    530AD (87.1%) 657AD
+GU-1809 R_Date(1330,55)
+  68.3% probability
+    650AD (41.3%) 706AD
+    736AD (26.9%) 772AD
+  95.4% probability
+    604AD (90.5%) 778AD
+    788AD ( 5.0%) 825AD
+GU-2001 R_Date(1320,55)
+  68.3% probability
+    654AD (38.5%) 706AD
+    730AD (29.8%) 772AD
+  95.4% probability
+    607AD ( 1.7%) 624AD
+    636AD (84.9%) 778AD
+    786AD ( 7.0%) 830AD
+    854AD ( 1.8%) 874AD
+Label()
+Bone with Pictish symbol recovered from Phase 7.1 context Label()
+SUERC-73735 R_Date(1570,33)
+  68.3% probability
+    435AD (24.2%) 465AD
+    474AD (30.2%) 516AD
+    530AD (13.9%) 547AD
+  95.4% probability
+    422AD (95.4%) 568AD

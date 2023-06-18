@@ -1,0 +1,20 @@
+ // Delta_R values updated for Marine20
+
+ Plot()
+ {
+  // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+  Curve("terrestrial", "intcal20.14c");
+  
+  Combine("Brough Road Cairn 1")
+  {
+   Curve("=terrestrial");
+   R_Combine("Skeleton 2, AS (GU-1551 + TO-7047)")
+   {
+       R_Date("GU-1551", 1600, 70);
+       R_Date("TO-7047", 1520, 50);
+   };
+
+   Curve("=terrestrial");
+   R_Date("Skeleton 1, AN (GU-1550)", 1640, 70);
+  };
+ };

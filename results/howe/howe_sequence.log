@@ -1,0 +1,443 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+FALSE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+start Howe Boundary()
+GU-1760 R_Date(2405,75)
+  68.3% probability
+    745BC (14.1%) 690BC
+    664BC ( 5.1%) 645BC
+    550BC (49.0%) 397BC
+  95.4% probability
+    773BC (95.4%) 382BC
+GU-1804 R_Date(2420,55)
+  68.3% probability
+    734BC (11.6%) 696BC
+    662BC ( 4.2%) 650BC
+    546BC (52.4%) 406BC
+  95.4% probability
+    756BC (19.4%) 680BC
+    670BC (13.0%) 606BC
+    597BC (63.0%) 398BC
+( Phase phase 3
+phase 3 Phase()
+) Phase phase 3
+phase 4 Label()
+GU-1805 R_Date(2305,60)
+  68.3% probability
+    414BC (35.9%) 350BC
+    295BC (32.4%) 208BC
+  95.4% probability
+    717BC ( 0.4%) 710BC
+    659BC ( 0.3%) 654BC
+    542BC (94.8%) 196BC
+GU-1789 R_Date(2405,70)
+  68.3% probability
+    742BC (13.1%) 692BC
+    664BC ( 4.7%) 647BC
+    548BC (50.6%) 398BC
+  95.4% probability
+    765BC (95.4%) 388BC
+GU-2348 R_Date(2280,50)
+  68.3% probability
+    400BC (33.3%) 352BC
+    286BC (33.1%) 228BC
+    216BC ( 1.9%) 212BC
+  95.4% probability
+    412BC (95.4%) 196BC
+( After residual material in phase 5 contexts
+residual material in phase 5 contexts After()
+  68.3% probability
+    -260 (68.3%) ...
+  95.4% probability
+    -208 (95.4%) ...
+) After residual material in phase 5 contexts
+roundhouse constructed Boundary()
+GU-1758 R_Date(2255,95)
+  68.3% probability
+    402BC (68.3%) 176BC
+  95.4% probability
+    733BC ( 1.5%) 696BC
+    663BC ( 0.6%) 650BC
+    546BC (93.4%) 46BC
+GU-1759 R_Date(1940,60)
+  68.3% probability
+    14AD (63.6%) 164AD
+    188AD ( 4.6%) 202AD
+  95.4% probability
+    46BC (95.4%) 230AD
+GU-2355 R_Date(1930,120)
+  68.3% probability
+    48BC (68.3%) 240AD
+  95.4% probability
+    340BC ( 0.7%) 324BC
+    200BC (94.6%) 384AD
+    397AD ( 0.1%) 400AD
+( Phase phase 5/6
+phase 5/6 Phase()
+) Phase phase 5/6
+continues... Label()
+Page()
+... continued Label()
+broch 2 constructed Boundary()
+GU-2351 R_Date(1850,50)
+  68.3% probability
+    126AD (68.3%) 240AD
+  95.4% probability
+    66AD (85.1%) 258AD
+    280AD (10.4%) 332AD
+GU-2349 R_Date(1790,50)
+  68.3% probability
+    212AD (28.2%) 262AD
+    276AD (40.1%) 344AD
+  95.4% probability
+    130AD (95.4%) 383AD
+GU-1788 R_Date(1935,55)
+  68.3% probability
+    22AD (63.6%) 163AD
+    188AD ( 4.7%) 201AD
+  95.4% probability
+    42BC (95.4%) 222AD
+SUERC-68731 R_Date(1946,25)
+  68.3% probability
+    30AD ( 8.0%) 40AD
+    60AD (60.3%) 120AD
+  95.4% probability
+    30BC ( 1.2%) 17BC
+    6AD (91.0%) 132AD
+    140AD ( 2.2%) 160AD
+    190AD ( 1.0%) 200AD
+articulated adult skeleton in NW yard Label()
+SUERC-25599 R_Date(1925,40)
+  68.3% probability
+    30AD ( 4.2%) 40AD
+    60AD (58.0%) 164AD
+    188AD ( 6.1%) 202AD
+  95.4% probability
+    8AD (95.4%) 217AD
+( Phase phase 7
+phase 7 Phase()
+) Phase phase 7
+GU-2342 R_Date(1790,50)
+  68.3% probability
+    212AD (28.2%) 262AD
+    276AD (40.1%) 344AD
+  95.4% probability
+    130AD (95.4%) 383AD
+GU-2345 R_Date(1750,50)
+  68.3% probability
+    244AD (68.3%) 362AD
+  95.4% probability
+    214AD (95.4%) 414AD
+GU-1787 R_Date(1670,55)
+  68.3% probability
+    258AD ( 9.5%) 280AD
+    330AD (53.2%) 434AD
+    466AD ( 2.3%) 474AD
+    518AD ( 3.3%) 528AD
+  95.4% probability
+    250AD (13.7%) 295AD
+    310AD (81.7%) 540AD
+GU-2344 R_Date(1810,50)
+  68.3% probability
+    168AD ( 6.2%) 186AD
+    202AD (34.2%) 258AD
+    280AD (27.8%) 332AD
+  95.4% probability
+    121AD (95.4%) 376AD
+GU-2346 R_Date(1750,50)
+  68.3% probability
+    244AD (68.3%) 362AD
+  95.4% probability
+    214AD (95.4%) 414AD
+GU-2353 R_Date(1770,50)
+  68.3% probability
+    232AD (19.0%) 266AD
+    272AD (49.2%) 352AD
+  95.4% probability
+    166AD ( 1.8%) 187AD
+    202AD (93.7%) 412AD
+( Phase later phase 7
+later phase 7 Phase()
+) Phase later phase 7
+major broch 2 wall collapse Boundary()
+GU-1749 R_Date(1565,45)
+  68.3% probability
+    434AD (21.6%) 467AD
+    472AD (29.1%) 518AD
+    528AD (17.5%) 554AD
+  95.4% probability
+    418AD (95.4%) 590AD
+GU-2347 R_Date(1170,50)
+  68.3% probability
+    774AD ( 8.8%) 792AD
+    801AD ( 4.0%) 812AD
+    818AD (40.5%) 897AD
+    921AD (14.9%) 954AD
+  95.4% probability
+    706AD ( 3.9%) 736AD
+    771AD (91.6%) 992AD
+GU-1757 R_Date(1450,50)
+  68.3% probability
+    582AD (68.3%) 648AD
+  95.4% probability
+    537AD (95.4%) 668AD
+( Phase phase 8
+phase 8 Phase()
+) Phase phase 8
+( Sequence 
+Sequence()
+) Sequence 
+( Phase phase 7/8
+phase 7/8 Phase()
+) Phase phase 7/8
+end Howe Boundary()
+( Sequence Howe
+Howe Sequence()
+) Sequence Howe
+Page()
+=GU-2351 
+=GU-2349 
+=GU-2342 
+=GU-2345 
+ =GU-2345 = ( Sequence stratified broch 2 floor deposits
+stratified broch 2 floor deposits Sequence()
+) Sequence stratified broch 2 floor deposits
+GU-1786 R_Date(1975,55)
+  68.3% probability
+    39BC (12.1%) 11BC
+    2AD (56.1%) 120AD
+  95.4% probability
+    96BC ( 2.6%) 71BC
+    57BC (92.9%) 210AD
+=GU-2342 
+ =GU-2342 = ( Sequence GU-1786 is from a roof timber, so treat as residual
+GU-1786 is from a roof timber, so treat as residual Sequence()
+) Sequence GU-1786 is from a roof timber, so treat as residual
+i : Using logs - function probability low
+Posterior 
+( MCMC(30000)
+Overall agreement  96.1%
+Dynamic agreement  98.4%
+start Howe Posterior 
+  68.3% probability
+    678BC (68.3%) 424BC
+  95.4% probability
+    1036BC (95.4%) 401BC
+GU-1760 Posterior 
+  68.3% probability
+    518BC (68.3%) 394BC
+  95.4% probability
+    726BC ( 2.7%) 690BC
+    666BC (92.8%) 376BC
+ Agreement 113.3%
+GU-1804 Posterior 
+  68.3% probability
+    513BC (68.3%) 401BC
+  95.4% probability
+    730BC ( 3.1%) 690BC
+    666BC ( 3.2%) 632BC
+    624BC ( 1.1%) 608BC
+    597BC (87.9%) 389BC
+ Agreement 110.7%
+GU-1805 Posterior 
+  68.3% probability
+    414BC (55.7%) 350BC
+    282BC ( 9.8%) 256BC
+    244BC ( 2.7%) 236BC
+  95.4% probability
+    462BC (64.8%) 336BC
+    326BC (30.6%) 204BC
+ Agreement 122.1%
+GU-1789 Posterior 
+  68.3% probability
+    740BC (12.6%) 694BC
+    664BC ( 4.6%) 647BC
+    548BC (51.1%) 398BC
+  95.4% probability
+    760BC (95.4%) 390BC
+ Agreement 100.6%
+GU-2348 Posterior 
+  68.3% probability
+    404BC (52.7%) 349BC
+    284BC (12.3%) 254BC
+    244BC ( 3.3%) 236BC
+  95.4% probability
+    460BC ( 1.4%) 440BC
+    420BC (94.1%) 201BC
+ Agreement 104.2%
+roundhouse constructed Posterior 
+  68.3% probability
+    372BC (18.4%) 312BC
+    306BC (49.9%) 154BC
+  95.4% probability
+    392BC (95.4%) 28BC
+GU-1758 Posterior 
+  68.3% probability
+    245BC (68.3%) 47BC
+  95.4% probability
+    326BC (95.4%) 25AD
+ Agreement  71.0%
+GU-1759 Posterior 
+  68.3% probability
+    44BC (29.7%) 7BC
+    2BC (38.6%) 52AD
+  95.4% probability
+    103BC (95.4%) 101AD
+ Agreement  81.1%
+GU-2355 Posterior 
+  68.3% probability
+    96BC (10.0%) 68BC
+    62BC (58.3%) 55AD
+  95.4% probability
+    195BC (95.4%) 92AD
+ Agreement  92.1%
+broch 2 constructed Posterior 
+  68.3% probability
+    18AD (68.3%) 98AD
+  95.4% probability
+    37BC (95.4%) 127AD
+GU-2351 Posterior 
+  68.3% probability
+    122AD (68.3%) 211AD
+  95.4% probability
+    77AD (95.4%) 238AD
+ Agreement 106.8%
+GU-2349 Posterior 
+  68.3% probability
+    178AD ( 4.7%) 186AD
+    200AD (63.6%) 256AD
+  95.4% probability
+    131AD (93.0%) 268AD
+    274AD ( 2.4%) 289AD
+ Agreement  88.2%
+GU-1788 Posterior 
+  68.3% probability
+    76AD (58.6%) 170AD
+    183AD ( 9.6%) 201AD
+  95.4% probability
+    32AD (95.4%) 225AD
+ Agreement 106.0%
+SUERC-68731 Posterior 
+  68.3% probability
+    65AD (68.3%) 124AD
+  95.4% probability
+    25AD (91.9%) 170AD
+    183AD ( 3.6%) 202AD
+ Agreement 101.0%
+SUERC-25599 Posterior 
+  68.3% probability
+    77AD (60.2%) 168AD
+    186AD ( 8.1%) 201AD
+  95.4% probability
+    38AD (95.4%) 215AD
+ Agreement 105.3%
+GU-2342 Posterior 
+  68.3% probability
+    231AD (28.3%) 262AD
+    278AD (40.0%) 324AD
+  95.4% probability
+    206AD (95.4%) 359AD
+ Agreement 118.7%
+GU-2345 Posterior 
+  68.3% probability
+    310AD (68.3%) 401AD
+  95.4% probability
+    250AD (95.4%) 415AD
+ Agreement 100.5%
+GU-1787 Posterior 
+  68.3% probability
+    260AD (13.0%) 280AD
+    334AD (55.3%) 418AD
+  95.4% probability
+    245AD (95.4%) 473AD
+ Agreement 106.9%
+GU-2344 Posterior 
+  68.3% probability
+    226AD (22.6%) 258AD
+    280AD (45.7%) 333AD
+  95.4% probability
+    202AD (95.4%) 381AD
+ Agreement 108.3%
+GU-2346 Posterior 
+  68.3% probability
+    248AD (68.3%) 357AD
+  95.4% probability
+    236AD (95.4%) 406AD
+ Agreement 105.4%
+GU-2353 Posterior 
+  68.3% probability
+    240AD (14.2%) 264AD
+    274AD (54.0%) 348AD
+  95.4% probability
+    226AD (95.4%) 402AD
+ Agreement 108.3%
+major broch 2 wall collapse Posterior 
+  68.3% probability
+    388AD (68.3%) 504AD
+  95.4% probability
+    344AD (95.4%) 560AD
+GU-1749 Posterior 
+  68.3% probability
+    478AD (68.3%) 574AD
+  95.4% probability
+    429AD (95.4%) 600AD
+ Agreement  96.6%
+GU-2347 Posterior 
+  68.3% probability
+    675AD (51.3%) 738AD
+    772AD (17.0%) 798AD
+  95.4% probability
+    664AD (56.1%) 749AD
+    765AD (39.4%) 891AD
+Warning! Poor agreement - A= 59.3%(A'c= 60.0%)
+ Poor agreement  59.3%
+GU-1757 Posterior 
+  68.3% probability
+    584AD (68.3%) 647AD
+  95.4% probability
+    543AD (95.4%) 663AD
+ Agreement 101.5%
+end Howe Posterior 
+  68.3% probability
+    695AD (68.3%) 846AD
+  95.4% probability
+    674AD (95.4%) 971AD
+=GU-2351 Posterior 
+  68.3% probability
+    122AD (68.3%) 211AD
+  95.4% probability
+    77AD (95.4%) 238AD
+=GU-2349 Posterior 
+  68.3% probability
+    178AD ( 4.7%) 186AD
+    200AD (63.6%) 256AD
+  95.4% probability
+    131AD (93.0%) 268AD
+    274AD ( 2.4%) 289AD
+=GU-2342 Posterior 
+  68.3% probability
+    231AD (28.3%) 262AD
+    278AD (40.0%) 324AD
+  95.4% probability
+    206AD (95.4%) 359AD
+=GU-2345 Posterior 
+  68.3% probability
+    310AD (68.3%) 401AD
+  95.4% probability
+    250AD (95.4%) 415AD
+GU-1786 Posterior 
+  68.3% probability
+    38BC (11.9%) 11BC
+    2AD (56.3%) 118AD
+  95.4% probability
+    96BC ( 2.5%) 71BC
+    58BC (93.0%) 210AD
+ Agreement  99.9%
+=GU-2342 Posterior 
+  68.3% probability
+    231AD (28.3%) 262AD
+    278AD (40.0%) 324AD
+  95.4% probability
+    206AD (95.4%) 359AD
+) MCMC(960000)

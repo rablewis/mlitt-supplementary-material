@@ -1,0 +1,31 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ Floruit=FALSE;
+};
+
+Plot()
+ {
+  Curve("IntCal20", "intcal20.14c");
+  
+  Label("Phase 6.3");
+  R_Date("GU-2244",1530,120);
+
+  Label("");
+  Label("Phase 6.4");
+  R_Date("GU-2243",1610,110);
+
+  Label("");
+  Label("Phase 6.6");
+  R_Date("GU-1999",1520, 50);
+
+  Label("");
+  Label("Phase 6.7");
+  R_Date("GU-2000",1480,50);
+  R_Date("GU-1809",1330,55);
+  R_Date("GU-2001",1320,55);
+
+  Label("");
+  Label("Bone with Pictish symbol recovered from Phase 7.1 context");
+  R_Date("SUERC-73735",1570,33); /* looks intrusive - likely heirloom */
+ };

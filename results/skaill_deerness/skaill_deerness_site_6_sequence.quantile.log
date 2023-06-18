@@ -1,0 +1,98 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+TRUE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5 whole
+terrestrial Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+Birm-764: pit F28 R_Date(2020,100)
+  68.3% probability
+    157BC  110AD
+  95.4% probability
+    336BC  219AD
+Birm-766: Level 2 furnace R_Date(1550,100)
+  68.3% probability
+    410AD  594AD
+  95.4% probability
+    269AD  653AD
+Birm-593: hearth below paving R_Date(1760,110)
+  68.3% probability
+    159AD  410AD
+  95.4% probability
+    24AD  536AD
+( Phase Level 2/3
+Level 2/3 Phase()
+) Phase Level 2/3
+Birm-765: Level 1 paving R_Date(1360,100)
+  68.3% probability
+    602AD  798AD
+  95.4% probability
+    474AD  910AD
+Birm-763: low Level 1 deposit R_Date(1420,100)
+  68.3% probability
+    530AD  731AD
+  95.4% probability
+    428AD  846AD
+Birm-592: Level 1 hearth R_Date(1500,120)
+  68.3% probability
+    429AD  642AD
+  95.4% probability
+    272AD  772AD
+Birm-762: Level 1 deposit R_Date(1350,100)
+  68.3% probability
+    612AD  809AD
+  95.4% probability
+    488AD  928AD
+( Phase Level 1
+Level 1 Phase()
+) Phase Level 1
+( Sequence Skaill site 6
+Skaill site 6 Sequence()
+) Sequence Skaill site 6
+Warning! No boundaries used - check manual
+Posterior 
+( MCMC(30000)
+Overall agreement  88.2%
+Dynamic agreement  84.5%
+Birm-764: pit F28 Posterior 
+  68.3% probability
+    157BC  110AD
+  95.4% probability
+    337BC  218AD
+ Agreement  99.8%
+Birm-766: Level 2 furnace Posterior 
+  68.3% probability
+    376AD  548AD
+  95.4% probability
+    262AD  604AD
+ Agreement  99.6%
+Birm-593: hearth below paving Posterior 
+  68.3% probability
+    158AD  402AD
+  95.4% probability
+    22AD  525AD
+ Agreement 101.5%
+Birm-765: Level 1 paving Posterior 
+  68.3% probability
+    508AD  632AD
+  95.4% probability
+    440AD  689AD
+ Agreement  73.7%
+Birm-763: low Level 1 deposit Posterior 
+  68.3% probability
+    607AD  760AD
+  95.4% probability
+    548AD  866AD
+ Agreement 103.9%
+Birm-592: Level 1 hearth Posterior 
+  68.3% probability
+    586AD  748AD
+  95.4% probability
+    506AD  860AD
+ Agreement  88.5%
+Birm-762: Level 1 deposit Posterior 
+  68.3% probability
+    642AD  820AD
+  95.4% probability
+    582AD  934AD
+ Agreement 105.0%
+) MCMC(240000)

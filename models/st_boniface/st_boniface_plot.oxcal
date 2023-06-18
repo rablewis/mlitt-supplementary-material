@@ -1,0 +1,78 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ // report highest probability density date ranges, rather than compact quantile range
+ Floruit=FALSE;
+};
+
+Plot()
+{
+ // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+ Curve("terrestrial", "intcal20.14c");
+ // define "marine" calibration curve (using OxCal pre-defined curve for Marine20: "marine20.14c")
+ Curve("marine","marine20.14c");
+ // define "local_marine" curve with an appropriate DeltaR - the local divergence from global marine curve (based on patterns of ocean currents)
+ // this DeltaR value is average of the 9 nearest measurements (those within 200 km of Kirkwall) from 14CHRONO db, relative to Marine20
+ Delta_R("local_marine",-112,34);
+
+ Label("phase 5");
+ Curve("=local_marine");
+ R_Date("AA-9563: residual? (m)", 3080, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3059: TAQ roundhouse (m)", 2830, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3271: TAQ roundhouse (m)", 2850, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3060 (m)", 2740, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3268 (m)", 2740, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3273: TPQ enclosure ditch 1 (m)", 2790, 50);
+
+ Label("");
+ Label("phase 6.1");
+ Curve("=local_marine");
+ R_Date("GU-3058: TPQ enclosure ditch 2 (m)", 2620, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3274: TPQ enclosure ditch 2 (m)", 2570, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3061 (m)", 2460, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3062 (m)", 2590, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3275 (m)", 2490, 50);
+
+ Label("");
+ Label("phase 6.2");
+ Curve("=local_marine");
+ R_Date("GU-3278: TAQ structure 6 (m)", 2330, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3279: TAQ structure 10 (m)", 2340, 50);
+
+ Label("");
+ Label("phase 6.3");
+ Curve("=terrestrial");
+ R_Date("AA-9565: TAQ structures 7 & 11", 2115, 60); /* residual? */
+
+ Curve("=local_marine");
+ R_Date("GU-3282: TAQ structures 7 & 11 (m)", 2250, 50);
+
+ Curve("=terrestrial");
+ R_Date("AA-9564: TAQ structure 19", 1815, 60);
+
+ Curve("=local_marine");
+ R_Date("GU-3280: TAQ structure 19 (m)", 2430, 50);
+
+ Curve("=local_marine");
+ R_Date("GU-3277: fill of enclosure ditch 2 (m)", 2350, 50);
+};

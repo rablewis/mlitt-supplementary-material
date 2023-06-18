@@ -1,0 +1,23 @@
+// Delta_R values updated for Marine20
+Plot()
+{
+ // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+ Curve("terrestrial", "intcal20.14c");
+
+ Label("Phase IIa floor deposits in roundhouse");
+ R_Date("GU-1228",2470,133);
+ R_Date("GU-1154",2460,112);
+
+ Label();
+ Label("roundhouse decommissioning dated by cow skull in rubble in-fill");
+ R_Date("GU-1152",2440,110);
+
+ Label();
+ Label("Phase IIIa floor deposits from earth-house - after roundhouse decommissioning");
+ R_Date("GU-1153",2460,112);
+
+ Label();
+ Label("burials in rubble fills");
+ R_Date("SUERC-68733",2260,29);
+ R_Date("SUERC-69075",2271,33);
+};

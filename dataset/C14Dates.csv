@@ -1,0 +1,207 @@
+site-name,site-ref,sample-ref,lab-id,bp,error,human,marine,d13C,d15N,C/N,context-ref,source,notes
+bay of skaill,,,GU-7245,1410,50,yes,no,-20.5,,,56,james 2000; ashmore 2003,ashmore 2003 gives d13C as -20.5; cist is in close proximity to an unexcavated structure; extended and prone in a long cist - possibly beneath a cairn; prone inhumation
+broch of burrian,,NMS X.GB 228,OxA-18353,1289,27,no,no,-22.63,,,,clark & heald 2008,ox phalange with carved symbols
+broch of burrian,,NMS X.GB 227,UB-6923,1435,29,no,no,-22.0,,,,clark & heald 2008,ox phalange with pictish symbol
+brough road,,BY78 SB,GU-1230,1060,110,no,no,-23.4,,,area 3: rubble / debris,morris 1989,original measurement 1060 +/- 60 BP corrected as recommended in Ashmore et al. 2000
+brough road,,BY76 AN,GU-1550,1640,70,yes,no,,,,cutting 1: skeleton 1 cairn 1,morris 1989; ashmore 2003,above skeleton 2 cairn 1 (GU-1551) - CONFIRM; supine in long cist under cairn 1 (upper inhumation); cutting 1 skeleton 1; context 13; 'pre-Norse' according to barrett et al
+brough road,,BY76 AS,GU-1551,1600,70,yes,no,,,,cutting 1: skeleton 2 cairn 1,morris 1989; ashmore 2003,below skeleton 1 cairn 1 (GU-1550) - CONFIRM; right side in long cist under cairn 1 (lower inhumation) - same as TO-7047; cutting 1 skeleton 2; context 18; 'pre-Norse' according to barrett et al
+brough road,,BY78 CU,GU-1552,1040,60,yes,no,,,,area 1: skeleton 1 over cairn 1,morris 1989; ashmore 2003,flexed inhumation; area 1 skeleton 1; overlying cairn 1
+brough road,,BY78 DT,GU-1553,1240,85,yes,no,-19.5,,,area 1: skeleton 2 cist-grave,morris 1989; ashmore 2003,inhumation with grave goods in cist set into midden; same as TO-6691; area 1 skeleton 1; using d13C = -19.5 based TO-6691 lab result
+brough road,,BY78 IO,GU-1554,1705,80,yes,no,-23.1,,,area 1: skeleton 3 cairn 2,morris 1989; ashmore 2003,supine in long cist under cairn 2 - same as TO-6696; area 1 skeleton 3; layer 67; 'pre-Norse' according to barrett et al
+brough road,,BY78 BJ,GU-1555,1140,65,yes,no,-23,,,area 2: skeleton 1 cist-grave,morris 1989; ashmore 2003,inhumation in cist; same as TO-7048; area 2 skeleton 1; layer 33
+brough road,,BY78 GE,GU-1667,975,110,no,no,-23.3,,,area 2: lower midden,morris 1989,
+brough road,,BY78 GF,GU-1955,1230,50,no,no,-20.3,,,area 2: sand below midden,morris 1989,
+brough road,,BY78 DS,GU-1956,1250,55,no,no,-19.7,,,area 1: lower midden,morris 1989,slightly high d13C but treating as purely terrestrial
+brough road,,BY78 DH,GU-1957,1105,55,no,no,-20.3,,,area 1: lower midden,morris 1989,
+brough road,,BY78 SM,GU-1958,1250,110,no,no,-23.8,,,area 3: clay dump room B,morris 1989,red craig
+brough road,,BY78 SZ,GU-1959,1240,110,no,no,-23.8,,,area 3: primary hollow ashy deposit,morris 1989,red craig
+brough road,,BY78 DJ,GU-1979,1215,80,no,no,-22.1,,,area 1: sand over midden,morris 1989,
+brough road,,BY78 FE,GU-1980,1095,55,no,no,-22.6,,,area 2: upper midden,morris 1989,
+brough road,,,TO-6691,1120,40,yes,no,-19.5,,,BY78 DT,ashmore 2003; morris 1989,inhumation with grave goods in cist set into midden; same as GU-1553; area 1 skeleton 1
+brough road,,,TO-6696,1430,40,yes,no,-20.9,,,BY78 IO,ashmore 2003; morris 1989,supine in long cist under cairn 2 - same as GU-1554; area 1 skeleton 3; layer 67
+brough road,,,TO-7047,1520,50,yes,no,-21.2,,,BY76 AS,ashmore 2003; morris 1989,right side in long cist under cairn 1 (lower inhumation) - same as GU-1551; cutting 1 skeleton 2; context 18
+brough road,,,TO-7048,1320,50,yes,no,-20.1,,,BY78 BJ,ashmore 2003; morris 1989,inhumation in cist; same as GU-1555; area 2 skeleton 1; layer 33
+bu,2,30,GU-1152,2440,110,,no,-21.1,,,Bu 78.65,https://canmore.org.uk/c14index/1483,cow skull from bottom of 1.5m deep rubble (Bu 78.65) within roundhouse - immediately after occupation; original measurement 2440 +/- 65 BP corrected as recommended in Ashmore et al. 2000
+bu,2,31,GU-1153,2545,110,,no,-21.4,,,Bu 78.516,https://canmore.org.uk/c14index/1483,"animal bone from floor deposit (Bu 78.516) in an earth house under 1m rubble (L65/ph IIIa) - stratigraphically later than GU-1152, GU-1154 and GU-1228; original measurement 2545 +/- 65 BP corrected as recommended in Ashmore et al. 2000"
+bu,2,32,GU-1154,2460,112,,no,-21.5,,,Bu 78.267,https://canmore.org.uk/c14index/1483,"animal bone from a deposit (Bu 78.267) on the floor of roundhouse, below 1.5m of rubble (L51/phase IIa); original measurement 2460 +/- 80 BP corrected as recommended in Ashmore et al. 2000"
+bu,2,33,GU-1228,2470,133,,no,-25,,,BU 78 SF 348 L46,https://canmore.org.uk/c14index/1483,charcoal from the close-textured midden-like floor deposits (Bu 78 SF 348 L46) of roundhouse. Phase IIa.; original measurement 2470 +/- 95 BP corrected as recommended in Ashmore et al. 2000
+bu,x,OM 1982.330.321,SUERC-68733,2260,29,yes,no,,,,BU 78 13 5,DES 2018: 241,GENSCOT85; from incomplete burial of 2 adults; adult male
+bu,x,OM 1982.330.330,SUERC-69075,2271,33,yes,no,,,,BU 78 31 2,DES 2018: 241,GENSCOT86; neonate female
+buckquoy,,,TO-6693,1580,40,yes,no,-20.5,,,burial M12,ashmore 2003,supine burial in a long cist oriented SW-NE
+buckquoy,,,TO-6695,1740,40,yes,no,-20.2,,,,ashmore 2003,disturbed burial; Viking grave with much earlier date - dated rib bone thought to be intrusive (Barrett 2003)
+hermisgarth,,,GU-4232,1480,80,yes,no,,,,cist 003,downes & morris 1997; ashmore 2003,same as GU-4233; cist in pit under cairn - same as GU-4233; 'pre-Norse' according to barrett et al
+hermisgarth,,,GU-4233,1580,100,yes,no,,,,cist 003,downes & morris 1997; ashmore 2003,same as GU-4232; cist in pit under cairn - same as GU-4232; 'pre-Norse' according to barrett et al
+howe,1,SF 2812,GU-1749,1565,45,no,no,,,,775,howe p264,context=hearth; S area; Phase 8 Stage 4
+howe,1,SF 4812; SF 4813,GU-1750,2070,50,no,no,,,,1498,howe p264,context=burnt roofing material; S area
+howe,1,SF 870,GU-1756,2200,70,no,no,,,,390,howe p264,context=occupation deposit; H Trench
+howe,1,SF 313; SF 940,GU-1757,1450,50,no,no,,,,345,howe p264,context=floor; H Trench (J Trench?); Phase 8 Stage 10 but may be old wood
+howe,1,SF 7341,GU-1758,2255,95,no,no,,,,2029,howe p264,context=ditch fill; X Trench
+howe,1,SF 7054,GU-1759,1940,60,no,no,,,,1857,howe p264,context=ditch silt; X Trench
+howe,1,SF 7155,GU-1760,2405,75,no,no,,,,1922,howe p264,context=silting in well; X Trench
+howe,1,SF 2207,GU-1786,1975,55,no,no,,,,861,howe p264,stratigraphic group from broch 2 floor - middle of 5; context=layer of burning; Trench Z; charred roof timbers so could have been old at the time of the fire
+howe,1,SF 6984,GU-1787,1670,55,no,no,,,,1491,howe p264,context=floor; J Trench
+howe,1,SF 2686,GU-1788,1935,55,no,no,,,,978,howe p264,'from a major fire inside the broch' (listed as context 972? - but prob. not); Trench Z
+howe,1,SF 7126,GU-1789,2405,70,no,no,,,,1861,howe p264,"""residual material � must predate Phase 5""; rampart in Trench S"
+howe,1,SF 5451,GU-1799,2380,50,yes,no,-20,,,1001,howe p264; ashmore 2003,context=drain; in drain
+howe,1,SF 6925,GU-1804,2420,55,no,no,,,,2046,howe p264,context=midden; S area
+howe,1,SF 6733,GU-1805,2305,60,no,no,,,,1993,howe p264,S area
+howe,1,SF 3255,GU-2342,1790,50,no,no,,,,858,howe p264,stratigraphic group from broch 2 floor - second latest of 5
+howe,1,SF 3694,GU-2343,2130,80,no,no,,,,1356,howe p264,
+howe,1,SF 3455,GU-2344,1810,50,no,no,,,,1017,howe p264,
+howe,1,SF 3020,GU-2345,1750,50,no,no,,,,826,howe p264,stratigraphic group from broch 2 floor - latest of 5
+howe,1,SF 3365,GU-2346,1750,50,no,no,,,,972,howe p264,
+howe,1,SF 570,GU-2347,1170,50,no,no,,,,284; 383,howe p264,context=earth floor; Phase 8 Stage 5
+howe,1,SF 6571,GU-2348,2280,50,no,no,,,,1894,howe p264,"""residual material � must predate Phase 5""; ""earliest possible date for the start of Phase 5"""
+howe,1,SF 3056,GU-2349,1790,50,no,no,,,,876,howe p264,stratigraphic group from broch 2 floor - second earliest of 5
+howe,1,SF 3094,GU-2351,1850,50,no,no,,,,906,howe p264,stratigraphic group from broch 2 floor - earliest of 5
+howe,1,SF 5726,GU-2353,1770,50,no,no,,,,1583,howe p264,incorrectly listed as GU-2351 in howe p264; layer 583 in howe p264 appears to be wrong - archives say layer 1583
+howe,1,SF 6458; SF 6385,GU-2355,1930,120,no,no,,,,1818,howe p264,context=shillet
+howe,1,SF 4546,SUERC-25599,1925,40,yes,no,-19.9,,,1251,DES2009 p215; tucker & armit 2009,articulated skeleton deposited in NW yard; same as SUERC-68732?; Home Lorimer 1994: 260
+howe,1,SF 3454,SUERC-68727,1901,29,yes,no,-20.3,12.1,3.2,,DES2016 p197,metatarsal; female of indeterminate age; SE building; GENSCOT82; Home Lorimer 1994: 261
+howe,1,SF 5445,SUERC-68731,1946,25,yes,no,-20.6,11.3,3.3,1727,DES2016 p197,molar dentine; juvenile female; from scattered skeleton in NW yard; GENSCOT83; Home Lorimer 1994: 261
+howe,1,SF 4546,SUERC-68732,2052,26,yes,no,-20.9,10.8,3.2,1251,DES2016 p197,molar dentine; male of indeterminate age; same as SUERC-25599?; GENSCOT84; Home Lorimer 1994: 260
+knowe of skea,,,SUERC-8400,2065,35,yes,,-19.0,12.5,3.1,2100,Gooney 2015,
+knowe of skea,,,SUERC-8401,1950,35,yes,,-19.2,13.0,3.4,2114,Gooney 2015,
+knowe of skea,,,SUERC-8402,2060,35,yes,,-18.0,12.2,3.2,3015,Gooney 2015,
+knowe of skea,,,SUERC-8403,1665,35,yes,,-20.9,9.1,3.5,3111,Gooney 2015,
+knowe of skea,,,SUERC-8406,2130,35,yes,,-20.7,11.0,3.4,4036,Gooney 2015,
+knowe of skea,,,SUERC-8410,2095,35,yes,,-19.0,13.0,3.3,4038,Gooney 2015,
+knowe of skea,,,SUERC-8411,1915,35,yes,,-21.1,11.2,3.4,4045,Gooney 2015,
+knowe of skea,,,SUERC-8896,1875,35,yes,,-18.9,13.1,3.3,4019,Gooney 2015,
+knowe of skea,,,SUERC-27910,2030,30,yes,,-18.5,10.7,3.2,9010,Gooney 2015,
+knowe of skea,,,SUERC-27911,2085,30,yes,,-18.7,11.7,3.2,6030,Gooney 2015,
+knowe of skea,,,SUERC-27912,2010,30,yes,,-18.3,11.2,3.2,6043,Gooney 2015,
+knowe of skea,,,SUERC-27913,1905,30,yes,,-19.3,11.1,3.3,6032,Gooney 2015,
+knowe of skea,,,SUERC-27914,2025,30,yes,,-18.3,11.2,3.2,6076,Gooney 2015,
+knowe of skea,,,SUERC-27918,2050,30,yes,,-18.4,11.4,3.3,6065,Gooney 2015,
+knowe of skea,,,SUERC-27919,1960,30,yes,,-19.3,10.9,3.1,6072,Gooney 2015,
+knowe of skea,,,SUERC-27920,1905,30,yes,,-19.6,11.0,3.6,7015,Gooney 2015,
+knowe of skea,,,SUERC-27921,2000,30,yes,,-19.0,11.6,3.3,6061,Gooney 2015,
+knowe of skea,,,SUERC-27922,2070,30,yes,,-18.4,12.6,3.6,6096,Gooney 2015,
+knowe of skea,,,SUERC-27923,2070,30,yes,,-18.6,12.5,3.5,9003,Gooney 2015,
+knowe of skea,,,SUERC-35303,2100,30,yes,,-18.9,12.6,3..2,SF625,Gooney 2015,
+knowe of skea,,,SUERC-35304,2060,30,yes,,-18.3,12.9,3.2,SF443,Gooney 2015,
+knowe of skea,,,SUERC-35305,2180,30,yes,,-17.9,13.7,3.2,SF440,Gooney 2015,
+knowe of skea,,,SUERC-35306,2140,30,yes,,-19.8,12.3,3.2,SF188A,Gooney 2015,
+knowe of skea,,,SUERC-35307,2220,30,yes,,-18.3,12.5,3.2,SF188C,Gooney 2015,
+knowe of skea,,,SUERC-35308,2125,30,yes,,-19.1,14.2,3.3,SF188D,Gooney 2015,
+knowe of skea,,,SUERC-35309,1815,30,yes,,-21.7,10.9,3.2,2117,Gooney 2015,
+knowe of skea,,,SUERC-35313,1945,30,yes,,-19.9,11.4,3.2,2098,Gooney 2015,
+knowe of skea,,,SUERC-35314,1950,30,yes,,-19.9,12.1,3.3,9023,Gooney 2015,
+knowe of skea,,,SUERC-35315,1950,30,yes,,-18.3,15.3,3.2,SF188B,Gooney 2015,
+knowe of skea,,,SUERC-35316,2680,30,yes,,-20.4,10.3,3.2,7074,Gooney 2015,SF1064
+knowe of skea,,,SUERC-42223,1878,37,yes,,-20.5,13.8,3.2,6071H,Gooney 2015,
+knowe of skea,,,SUERC-42227,1858,37,yes,,-19.9,13.3,3.2,6071mix,Gooney 2015,
+knowe of skea,,,SUERC-42228,2003,37,yes,,-20.0,13.5,3.4,SF251,Gooney 2015,
+knowe of skea,,,SUERC-42229,1892,37,yes,,-20.6,13.8,3.3,SF417,Gooney 2015,
+knowe of skea,,,SUERC-42230,2077,37,yes,,-19.7,14.0,3.2,9016,Gooney 2015,
+knowe of skea,,,SUERC-42231,2028,37,yes,,-19.6,13.5,3.3,9007,Gooney 2015,
+knowe of skea,,,SUERC-42232,2094,37,yes,,-18.8,14.5,3.3,SF126,Gooney 2015,
+knowe of skea,,,SUERC-42233,1854,37,yes,,-19.7,14.1,3.4,3118,Gooney 2015,
+lingro,,,SUERC-23662,2025,35,yes,no,-19.4,,,,tucker & armit 2009,cranium placed into right 'guard-cell' of roundhouse
+near stromness,,,GrA-24015,1585,40,yes,no,,,,steatite urn,Sheridan 2004: 169; Sheridan 2005b: 162; https://canmore.org.uk/c14index/1495,same as GrA-24198; Steatite urn with skin wrapping. In 'large coffin' near centre of barrow.
+near stromness,,,GrA-24198,1620,40,yes,no,,,,steatite urn,Sheridan 2005a: 176; Sheridan 2005b: 162; Sheridan 2007: 206; https://canmore.org.uk/c14index/1495,"same as GrA-24015; cremated remains, adult, probably male, in steatite urn with cattle hide cover"
+newark bay,,,TO-6933,1170,50,yes,no,-20.31,10.27,3.33,burial 71/5,ashmore 2003; barrett & richards 2004,supine; revised d13C from Barrett & Richards
+newark bay,,,TO-6942,1180,30,yes,no,-20.2,,,burial 69/x,ashmore 2003,supine
+newark bay,,,TO-7174,1190,40,yes,no,-19.95,10.92,3.36,burial 68/16A,ashmore 2003; barrett & richards 2004,supine; revised d13C from Barrett & Richards
+newark bay,,,TO-7176,1460,40,yes,no,-19.8,,,burial 68/33,ashmore 2003,supine
+newark bay,,,TO-7180,1380,30,yes,no,-19.6,9.85,3.32,burial 69/11,ashmore 2003; barrett & richards 2004,supine; revised d13C from Barrett & Richards
+newark bay,,,TO-7189,1130,50,yes,no,-19.38,11.03,3.27,burial 69/104B,ashmore 2003; barrett & richards 2004,supine; revised d13C from Barrett & Richards
+newark bay,,,TO-7191,1340,60,yes,no,-17.87,12.05,3.31,burial 69/107,barrett & richards 2004,revised d13C from Barrett & Richards
+newark bay,,,TO-7193,1200,40,yes,no,-19.07,10.37,3.26,burial 71/3,ashmore 2003; barrett & richards 2004,supine; barrett et al use a standard marine offset; revised d13C from Barrett & Richards
+pierowall quarry,,,GU-1580,2510,80,no,no,-20,,,Layer 8,Sharples 1984: 88-90,"Cattle bone from 'dark, organically rich occupation soil' beneath the roundhouse wall"
+pierowall quarry,,,GU-1581,2425,60,no,no,-20,,,Layer 6,Sharples 1984: 89-90,Cattle bone from an occupation layer outside the roundhouse
+pool,,,GU-1806,975,50,no,no,-21.9,,,PL 84 0066,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (mixed) from the silty loam/midden foundation for a Norse structure
+pool,,,GU-1807,1105,70,no,no,-21.7,,,PL83 0044,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (mixed) from a stone-sided pit in a loam midden
+pool,,,GU-1808,930,50,no,no,-22.1,,,PL83 0022,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone from a midden layer sealing ?late Norse wall
+pool,,,GU-1809,1330,55,no,no,-22.8,,,PL83 0095,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos) from a midden layer overlying a domestic floor
+pool,,,GU-1810,1270,50,no,no,-27.5,,,PL83 0080,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,dung from a midden layer/loam layer below a Norse structure
+pool,,,GU-1997,1345,50,no,no,-22.0,,,PL 84 0409,https://canmore.org.uk/c14index/3422,animal bone from a midden layer stratified in a structural sequence; not included in Hunter et al. 2007 list of C14 dates
+pool,,,GU-1998,1505,50,no,no,-22.4,,,PL 84 0300,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos) from a midden layer stratified in a structural sequence
+pool,,,GU-1999,1520,50,no,no,-21.9,,,PL 84 0559,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos/ovis) from a midden layer stratified in a structural sequence
+pool,,,GU-2000,1480,50,no,no,-22.3,,,PL 84 0468,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos/ovis) from a midden layer stratified in a structural sequence
+pool,,,GU-2001,1320,55,no,no,-19.2,,,PL 84 0420,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos) from a midden layer stratified in a structural sequence
+pool,,,GU-2002,1250,50,no,no,-26.9,,,PL 84 0551,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,charcoal (Salix) from a midden layer stratified in a structural sequence
+pool,,,GU-2003,1185,50,no,no,-21.8,,,PL 84 0381,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos/ovis) from a midden layer stratified in a structural sequence
+pool,,,GU-2004,1270,55,no,no,-27.7,,,PL 84 0517,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,charcoal (Salix) from a midden layer stratified in a structural sequence
+pool,,,GU-2005,1090,50,no,no,-22.0,,,PL 84 0278,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos/ovis) from a midden layer stratified in a midden [?] sequence
+pool,,,GU-2006,1160,50,no,no,-21.9,,,PL 84 0353,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos/ovis) from a midden layer stratified in a structural sequence
+pool,,,GU-2241,1160,50,no,no,-25.6,,,PL86 2178,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,charcoal (Salix) in a layer associated with a late Norse long-house
+pool,,,GU-2243,1610,110,no,no,-20.0,,,PL86 0724,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos) from Pictish/Iron Age tips within a structure at the centre of the site
+pool,,,GU-2244,1530,120,no,no,-19.2,,,PL86 0747,https://canmore.org.uk/c14index/3422; Hunter et al. 2007: 531,animal bone (bos) from Pictish? Iron Age tips within a structure at the centre of the site
+pool,,PL2110,SUERC-73735,1570,33,no,no,,,,PL 84 0391,Noble et al. 2018; Hunter et al. 2007: 511-512,(bos) phalanx with Pictish symbols
+quanterness,,8134,Q-1463,2130,60,no,no,,,,square M1 layer 5,Renfrew 1979: 71,Soil rich in organic material. From square M7 layer 5. (Small find number 8134). This context is subsequent to the construction of wall J and feature W within the round house.
+quanterness,,8272,Q-1464,2440,85,no,no,,,,square L7 layer 8,Renfrew 1979: 71,"Soil rich in organic material. From square L7, layer 8. (Small find No. 8272). Primary occupation of round house, prior to wall F."
+quanterness,,8280,Q-1465,2570,85,no,no,,,,square L7 layer 8,Renfrew 1979: 71,"Soil rich in organic material. From square L7, layer 8. (Small find No. 8280). Primary occupation of round house, prior to wall F."
+red craig,,,GU-1230,1060,110,no,no,-23.4,,,BY78 SB,Morris 1989: 298-299,original measurement 1060 +/- 60 BP corrected as recommended in Ashmore et al. 2000; not listed in Canmore ??
+red craig,,,GU-1958,1250,110,no,no,-23.8,,,BY78 SM,Morris 1989: 298-299; https://canmore.org.uk/c14index/1803,"Charred grain from a crumbly clay spread with charcoal and carbonised seeds (BY 78 SM, AREA 3) One of a series of dumps in Room B, after the hearth had gone out of use in Phase C1."
+red craig,,,GU-1959,1240,110,no,no,-23.8,,,BY78 SZ,Morris 1989: 298-299; https://canmore.org.uk/c14index/1803,"Charred grain from a soft ashy (?peat) deposit with carbonised seeds (BY 78 SZ, AREA 3). A primary hollow used as a fire-pit (Phase A1) in Room B; note Canmore has this as 1240 +/- 95 ??"
+sebay,,,GrA-30980,1870,40,no,no,,,,steatite urn,https://canmore.org.uk/site/3059/sebay; Sheridan 2006,cow hair associated with burnt human bone in steatite urn
+skaill deerness,,,Birm-397,2100,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Charcoal from a hearth in Site 5, level 1, 2 or 3 between early Iron Age cobbles and late Bronze Age paving. See also Birm-413 (2120 +/- 120 BP) from the same sample."
+skaill deerness,,,Birm-413,2120,120,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Charcoal from a hearth in Site 5, level 1, 2 or 3 between early Iron Age cobbles and late Bronze Age paving. See also Birm-397 (2100 +/- 100 BP) from the same sample."
+skaill deerness,,,Birm-592,1500,120,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Birch charcoal (Site 6 number 2) from an occupation layer above level 1 paving, relating to the latest 'Pictish occupation of the site; TAQ for Site 6 Level 1;"
+skaill deerness,,,Birm-593,1760,110,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Charcoal (Site 6 number 3) from a hearth under a sterile layer under paving of Layer 1, a stratigraphically late layer; TPQ for Site 6 sterile layer between Level 2 and Level 1; stratigraphically late within Level 2;"
+skaill deerness,,,Birm-594,3010,140,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Soil (Site 6 number 4) from a hearth under earliest occupation immediately over leached sand natural. PROBLEM Bulk soil organic matter can include old charcoal etc.
+skaill deerness,,,Birm-762,1350,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Willow charcoal (Site 6 number 7) from a layer in Level I.
+skaill deerness,,,Birm-763,1420,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Willow and subordinate pieces of other charcoal (Site 6 number 10) from low in Level 1.
+skaill deerness,,,Birm-764,2020,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Willow and subordinate pieces of other charcoal (Site 6 number 11) from pit F28 sealed by paving of late Level 3 or early Level 2, from the construction or early use of the roundhouse."
+skaill deerness,,,Birm-765,1360,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Willow charcoal and other material (Site 6 number 8) from immediately under the level 1 paving; TPQ(?) for Level 1 paving;
+skaill deerness,,,Birm-766,1550,100,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,"Willow and subordinate pieces of other charcoal (Site 6 number 9) from a furnace in level 2, possibly F20. The date is from a developed stage in the roundhouse phase; from the 1975 trench containing the 'annexe;"
+skaill deerness,,,OxA-1437,3150,70,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Charcoal from the upper soil level in the cliff exposure.
+skaill deerness,,,OxA-1716,3520,70,no,no,,,,,Buteux 1997; https://canmore.org.uk/c14index/2932,Burnt bone from the base of the primary plough soil in the cliff exposure.
+skara brae,,,SUERC-24240,1525,30,yes,no,-20.7,,,,tucker & armit 2009,Skeleton buried in a cist south of house 7
+st boniface,,2170,AA-9560,3175,60,no,no,,,,phase: 3 block: 250,lowe 1998; https://canmore.org.uk/c14index/2867,
+st boniface,,3056,AA-9561,4240,60,no,no,,,,phase: 1 block: 312,lowe 1998; https://canmore.org.uk/c14index/2867,
+st boniface,,2134,AA-9562,3100,85,no,no,,,,phase: 4 block: 245,lowe 1998; https://canmore.org.uk/c14index/2867,
+st boniface,,3022,AA-9563,3080,50,no,yes,,,,phase: 5 block: 302,lowe 1998; https://canmore.org.uk/c14index/2867,adjusted values published in lowe (based on -405 +/-40 correction for MRE)
+st boniface,,2097,AA-9564,1815,60,no,no,,,,phase: 6.3 block: 207,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structure 19
+st boniface,,2004,AA-9565,2115,60,no,no,,,,phase: 6.3 block: 224,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structures 7 & 11
+st boniface,,2050,GU-3058,2620,50,no,yes,,,,phase: 6.1 block: 213,lowe 1998; https://canmore.org.uk/c14index/2867,winkles from infill of primary enclosure ditch; TPQ for cutting of secondary enclosure ditch
+st boniface,,2145,GU-3059,2830,50,no,yes,,,,phase: 5 block: 237,lowe 1998; https://canmore.org.uk/c14index/2867,deposits against base of roundhouse wall
+st boniface,,1095,GU-3060,2740,50,no,yes,,,,phase: 5 block: 115,lowe 1998; https://canmore.org.uk/c14index/2867,linear cut feature - 'pit'
+st boniface,,1091,GU-3061,2460,50,no,yes,,,,phase: 6.1 block: 113,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structure 22; TPQ for cutting of secondary enclosure ditch
+st boniface,,1080,GU-3062,2590,50,no,yes,,,,phase: 6.1 block: 109,lowe 1998; https://canmore.org.uk/c14index/2867,rubble and midden
+st boniface,,1035,GU-3063,1570,90,no,no,,,,phase: 7 block: 107,lowe 1998; https://canmore.org.uk/c14index/2867,ash deposits; overlying much earlier mound dated by GU-3062
+st boniface,,1034,GU-3064,1700,50,no,yes,,,,phase: 7 block: 107,lowe 1998; https://canmore.org.uk/c14index/2867,ash deposits
+st boniface,,1034,GU-3065,1370,90,no,no,,,,phase: 7 block: 107,lowe 1998; https://canmore.org.uk/c14index/2867,ash deposits
+st boniface,,1045,GU-3066,1330,50,no,yes,,,,phase: 8 block: 104,lowe 1998; https://canmore.org.uk/c14index/2867,primary farm mound
+st boniface,,1045,GU-3067,920,60,no,no,,,,phase: 8 block: 104,lowe 1998; https://canmore.org.uk/c14index/2867,primary farm mound
+st boniface,,1030,GU-3069,1270,70,no,yes,,,,phase: 8 block: 103,lowe 1998; https://canmore.org.uk/c14index/2867,secondary farm mound
+st boniface,,1100,GU-3268,2740,50,no,yes,,,,phase: 5 block: 117,lowe 1998; https://canmore.org.uk/c14index/2867,deposits cut by secondary enclosure ditch
+st boniface,,2145,GU-3271,2850,50,no,yes,,,,phase: 5 block: 237,lowe 1998; https://canmore.org.uk/c14index/2867,deposits against base of roundhouse wall
+st boniface,,2181,GU-3273,2790,50,no,yes,,,,phase: 5 block: 215,lowe 1998; https://canmore.org.uk/c14index/2867,shell midden; TPQ for primary enclosure ditch
+st boniface,,2050,GU-3274,2570,50,no,yes,,,,phase: 6.1 block: 213,lowe 1998; https://canmore.org.uk/c14index/2867,limpets from infill of primary enclosure ditch; TPQ for cutting of secondary enclosure ditch
+st boniface,,1091,GU-3275,2490,50,no,yes,,,,phase: 6.1 block: 113,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structure 22; TPQ for cutting of secondary enclosure ditch
+st boniface,,2029,GU-3277,2350,50,no,yes,,,,phase: 6.3 block: 211,lowe 1998; https://canmore.org.uk/c14index/2867,infill of secondary enclosure ditch
+st boniface,,2137,GU-3278,2330,50,no,yes,,,,phase: 6.2 block: 238,lowe 1998; https://canmore.org.uk/c14index/2867,
+st boniface,,2013,GU-3279,2340,50,no,yes,,,,phase: 6.2 block: 230,lowe 1998; https://canmore.org.uk/c14index/2867,
+st boniface,,2097,GU-3280,2430,50,no,yes,,,,phase: 6.3 block: 207,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structure 19
+st boniface,,2004,GU-3282,2250,50,no,yes,,,,phase: 6.3 block: 224,lowe 1998; https://canmore.org.uk/c14index/2867,post-abandonment deposits in structures 7 & 11
+tofts ness,,TN86 SF3048,GU-2183,2990,100,no,no,-24.9,,,Area C: floor deposit from structure 5,Ambers 2007; Outram 2007,published calibrated dates are from Outram 2007
+tofts ness,,TN86 575,GU-2207,2510,140,no,no,-22.0,,,"Area C: secondary wall core, structure 5",Ambers 2007; Outram 2007,published calibrated dates are from Outram 2007
+tofts ness,,TN86 700,GU-2208,2470,50,no,no,-21.4,,,Area C: midden material butting the rebuilt annexe wall,Ambers 2007; Outram 2007,published calibrated dates are from Outram 2007
+tofts ness,,TN86 752,GU-2544,2470,50,no,no,-27.9,,,Area C: thin peat layer,Ambers 2007; Outram 2007,published calibrated dates are from Outram 2007
+warebeth,,,GU-2385,1720,50,no,no,-23.1,,,,Bell and Dickson 1989: 104; https://canmore.org.uk/c14index/1560,cattle bone; Waterlogged animal bone in the well chamber below the broch floor. Secondary phase on Iron Age broch site.
+westness,,,T-6527,1360,70,yes,no,-20.84,11.0,3.26,grave 10,ashmore 2003; barrett & richards 2004,extended inhumation in cist; burial 10; aligned NE-SW; revised d13C from Barrett & Richards
+westness,,,T-6528,1400,60,yes,no,-20.46,11.01,3.26,grave 20,ashmore 2003; barrett & richards 2004,inhumation in cist; burial 20; aligned NW-SE; revised d13C from Barrett & Richards
+westness,,,T-6529,1530,60,yes,no,-21.0,10.41,3.51,grave 25,ashmore 2003; barrett & richards 2004,inhumation; burial 25; W-E; revised d13C from Barrett & Richards
+westness,,,T-6530,920,50,yes,no,-20.63,11.74,3.63,grave 36,ashmore 2003; barrett & richards 2004,inhumation with grave goods; burial 36; grave goods c. 850-950; revised d13C from Barrett & Richards
+westness,,,T-6532,1190,50,yes,no,-20.7,11.8,3.4,grave 5,ashmore 2003; barrett & richards 2004,crouched inhumation in elliptical grave with tools etc; burial 5; grave goods c. 850-950; same as TO-7532: combined 660-890AD; revised d13C from Barrett & Richards
+westness,,,T-6813,1320,80,yes,no,-22.7,,,grave 6,ashmore 2003,extended inhumation; burial 6; W-E
+westness,,,T-6814,1270,60,yes,no,-18.1,13.7,3.3,grave 11,ashmore 2003; barrett & richards 2004,extended inhumation in boat shaped grave with weapons and tools; burial 11; grave goods c. 850-950; revised d13C from Barrett & Richards
+westness,,,T-6815,1240,70,yes,no,-18.2,14.8,3.4,grave 12,ashmore 2003; barrett & richards 2004,inhumation in disturbed cist with weapons and tools; burial 12; grave goods c. 850-950; revised d13C from Barrett & Richards
+westness,,,T-6816,1180,70,yes,no,-22.7,,,grave 18,ashmore 2003,inhumation; burial 18; aligned N-S
+westness,,,T-6817,1330,120,yes,no,-20.76,10.37,3.52,grave 26,ashmore 2003; barrett & richards 2004,inhumation; burial 26; W-E; revised d13C from Barrett & Richards
+westness,,,T-7464,1220,40,yes,no,-19.3,,,grave 9,ashmore 2003,inhumation; burial 9; W-E
+westness,,,T-7465,1430,40,yes,no,-19.1,,,grave 13,ashmore 2003,infant inhumation; burial 13; W-E
+westness,,,T-7466,1400,40,yes,no,-20.55,10.88,3.24,grave 24,ashmore 2003; barrett & richards 2004,inhumation; burial 24; W-E; revised d13C from Barrett & Richards
+westness,,,T-7467,1160,50,yes,no,-19.7,,,grave 17,ashmore 2003,infant inhumation; burial 17; W-E
+westness,,,T-7468,1410,30,yes,no,-20.93,11.47,3.28,grave 21,ashmore 2003; barrett & richards 2004,inhumation; burial 21; W-E; revised d13C from Barrett & Richards
+westness,,,T-7469,1330,70,yes,no,-21.3,,,grave 19,ashmore 2003,infant inhumation in cist; burial 19; W-E
+westness,,,T-7470,1410,60,yes,no,-21.1,10.83,3.35,grave 32,ashmore 2003; barrett & richards 2004,inhumation; burial 32; revised d13C from Barrett & Richards
+westness,,,T-7471,1480,40,yes,no,-21.0,11.26,3.46,grave 28,ashmore 2003; barrett & richards 2004,inhumation; burial 28a; W-E; revised d13C from Barrett & Richards
+westness,,,TO-7194,1200,40,yes,no,-19.4,,,1963A,ashmore 2003,burial with grave goods; burial 1963A
+westness,,,TO-7195,1600,70,yes,no,-21.0,11.0,3.3,1963B,barrett & richards 2004,revised d13C from Barrett & Richards
+westness,,,TO-7196,1540,40,yes,no,-19.9,,,burial 7,ashmore 2003,burial 7; W-E
+westness,,,TO-7198,1200,40,yes,no,-19.6,,,burial 15,ashmore 2003,burial 15; W-E
+westness,,,TO-7532,1300,30,yes,no,-20.7,11.8,3.4,grave 5,barrett & richards 2004,grave goods c. 850-950; same as T-6532: combined 660-890AD; revised d13C from Barrett & Richards

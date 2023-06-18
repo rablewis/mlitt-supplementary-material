@@ -1,0 +1,48 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+FALSE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+terrestrial Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+Brough Road Cairn 1 Label()
+GU-1550: skeleton 1 R_Date(1640,70)
+  68.3% probability
+    364AD (68.3%) 538AD
+  95.4% probability
+    250AD ( 8.7%) 295AD
+    310AD (86.8%) 572AD
+skeleton 2 Label()
+GU-1551 + TO-7047 R_Combine(1547,41)
+  68.3% probability
+    436AD (16.8%) 464AD
+    475AD (15.5%) 500AD
+    508AD ( 3.5%) 516AD
+    530AD (32.3%) 576AD
+  95.4% probability
+    425AD (95.4%) 598AD
+ X2-Test: df=1 T=0.9(5% 3.8)
+Label()
+TO-6696: Brough Road Cairn 2 R_Date(1430,40)
+  68.3% probability
+    602AD (68.3%) 650AD
+  95.4% probability
+    570AD (95.4%) 661AD
+Label()
+Hermisgarth Cist 003 Label()
+GU-4232 + GU-4233 R_Combine(1519,63)
+  68.3% probability
+    436AD (10.7%) 463AD
+    476AD ( 9.8%) 499AD
+    531AD (43.6%) 606AD
+    625AD ( 4.1%) 636AD
+  95.4% probability
+    424AD (95.4%) 644AD
+ X2-Test: df=1 T=0.6(5% 3.8)
+Label()
+GU-7245: Bay of Skaill R_Date(1410,50)
+  68.3% probability
+    600AD (68.3%) 660AD
+  95.4% probability
+    555AD (92.8%) 683AD
+    744AD ( 2.2%) 760AD
+    766AD ( 0.5%) 771AD

@@ -1,0 +1,86 @@
+// Delta_R values updated for Marine20
+ Options()
+ {
+  Floruit=TRUE;
+ };
+
+ Plot()
+ {
+  // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+  Curve("terrestrial", "intcal20.14c");
+  // define "marine" calibration curve (using OxCal pre-defined curve for Marine20: "marine20.14c")
+  Curve("marine","marine20.14c");
+  // define "local_marine" curve with an appropriate DeltaR - the local divergence from global marine curve (based on patterns of ocean currents)
+  // this DeltaR value is average of the 9 nearest measurements (those within 200 km of Kirkwall) from 14CHRONO db, relative to Marine20
+  Delta_R("local_marine",-112,34);
+  // mixed calibration curve with 12.9% +/- 10% marine carbon input
+  Mix_Curves("mixed_12_9", "terrestrial", "local_marine", 12.9, 10);
+  // etc.
+  Mix_Curves("mixed_15_3", "terrestrial", "local_marine", 15.3, 10);
+  Mix_Curves("mixed_16_5", "terrestrial", "local_marine", 16.5, 10);
+  Mix_Curves("mixed_20_0", "terrestrial", "local_marine", 20.0, 10);
+  Mix_Curves("mixed_22_4", "terrestrial", "local_marine", 22.4, 10);
+
+  Sequence("Westness Pictish burials")
+  {
+   Boundary("start Pictish burials");
+
+   Phase("Pictish burials")
+   {
+    Label("* = revised d13C from Barrett & Richards 2004");
+    Label("");
+
+    Curve("=terrestrial");
+    R_Date("T-6529: grave 25 *", 1530, 60);
+
+    Curve("=mixed_12_9");
+    R_Date("TO-7196: grave 7", 1540, 40);
+
+    Curve("=terrestrial");
+    R_Date("T-7471: grave 28a *", 1480, 40);
+
+    Curve("=terrestrial");
+    R_Date("T-7470: grave 32 *", 1410, 60);
+
+    Curve("=terrestrial");
+    R_Date("T-7468: grave 21 *", 1410, 30);
+    
+    Curve("=terrestrial");
+    R_Date("T-6528: grave 20 *", 1400, 60);
+    
+    Curve("=terrestrial");
+    R_Date("T-7466: grave 24 *", 1400, 40);
+
+    Curve("=terrestrial");
+    R_Date("T-6527: grave 10 *", 1360, 70);
+
+    Curve("=mixed_22_4");
+    R_Date("T-7465: grave 13", 1430, 40);
+
+    Curve("=terrestrial");
+    R_Date("T-6817: grave 26 *", 1330, 120);
+
+    Curve("=terrestrial");
+    R_Date("T-7469: grave 19", 1330, 70);
+
+    Curve("=terrestrial");
+    R_Date("T-6813: grave 6", 1320, 80);
+
+    Curve("=terrestrial");
+    R_Date("T-6816: grave 18", 1180, 70);
+
+    Curve("=mixed_20_0");
+    R_Date("T-7464: grave 9", 1220, 40);
+
+    Curve("=mixed_16_5");
+    R_Date("TO-7198: grave 15", 1200, 40);
+
+    Curve("=mixed_15_3");
+    R_Date("T-7467: grave 17", 1160, 50);
+ 
+    Interval("duration of Pictish burials");
+   };
+
+   Boundary("end Pictish burials");
+  };
+ };

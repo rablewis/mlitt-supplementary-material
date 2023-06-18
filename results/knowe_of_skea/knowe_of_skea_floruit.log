@@ -1,0 +1,769 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+FALSE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+terrestrial Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+marine Curve(marine20.14c)
+Marine data from Heaton et al (2020)
+local_marine Delta_R(-112,34)
+  68.3% probability
+    -148 (68.3%) -76
+  95.4% probability
+    -180 (95.4%) -44
+mixed_12_9 Mix_Curves(terrestrial,local_marine,12.9,10)
+  68.3% probability
+    4 (68.3%) 22
+  95.4% probability
+    -1 (95.4%) 30
+mixed_14_1 Mix_Curves(terrestrial,local_marine,14.1,10)
+  68.3% probability
+    5 (68.3%) 23
+  95.4% probability
+    -1 (95.4%) 32
+mixed_15_3 Mix_Curves(terrestrial,local_marine,15.3,10)
+  68.3% probability
+    6 (68.3%) 25
+  95.4% probability
+    -1 (95.4%) 33
+mixed_16_5 Mix_Curves(terrestrial,local_marine,16.5,10)
+  68.3% probability
+    7 (68.3%) 26
+  95.4% probability
+    -1 (95.4%) 34
+mixed_20_0 Mix_Curves(terrestrial,local_marine,20,10)
+  68.3% probability
+    10 (68.3%) 30
+  95.4% probability
+    1 (95.4%) 39
+mixed_21_2 Mix_Curves(terrestrial,local_marine,21.2,10)
+  68.3% probability
+    11 (68.3%) 31
+  95.4% probability
+    2 (95.4%) 40
+mixed_22_4 Mix_Curves(terrestrial,local_marine,22.4,10)
+  68.3% probability
+    12 (68.3%) 32
+  95.4% probability
+    3 (95.4%) 42
+mixed_23_5 Mix_Curves(terrestrial,local_marine,23.5,10)
+  68.3% probability
+    13 (68.3%) 34
+  95.4% probability
+    4 (95.4%) 43
+mixed_24_7 Mix_Curves(terrestrial,local_marine,24.7,10)
+  68.3% probability
+    15 (68.3%) 35
+  95.4% probability
+    5 (95.4%) 44
+mixed_25_9 Mix_Curves(terrestrial,local_marine,25.9,10)
+  68.3% probability
+    16 (68.3%) 36
+  95.4% probability
+    6 (95.4%) 46
+mixed_27_1 Mix_Curves(terrestrial,local_marine,27.1,10)
+  68.3% probability
+    17 (68.3%) 37
+  95.4% probability
+    7 (95.4%) 47
+mixed_28_2 Mix_Curves(terrestrial,local_marine,28.2,10)
+  68.3% probability
+    18 (68.3%) 38
+  95.4% probability
+    8 (95.4%) 48
+mixed_29_4 Mix_Curves(terrestrial,local_marine,29.4,10)
+  68.3% probability
+    19 (68.3%) 40
+  95.4% probability
+    9 (95.4%) 49
+mixed_30_6 Mix_Curves(terrestrial,local_marine,30.6,10)
+  68.3% probability
+    20 (68.3%) 41
+  95.4% probability
+    11 (95.4%) 51
+mixed_31_8 Mix_Curves(terrestrial,local_marine,31.8,10)
+  68.3% probability
+    22 (68.3%) 42
+  95.4% probability
+    12 (95.4%) 52
+mixed_35_3 Mix_Curves(terrestrial,local_marine,35.3,10)
+  68.3% probability
+    25 (68.3%) 45
+  95.4% probability
+    15 (95.4%) 55
+mixed_36_5 Mix_Curves(terrestrial,local_marine,36.5,10)
+  68.3% probability
+    26 (68.3%) 47
+  95.4% probability
+    16 (95.4%) 57
+start Knowe of Skea burials Boundary()
+=mixed_23_5 Curve()
+SUERC-8400 R_Date(2065,35)
+  68.3% probability
+    38BC (14.9%) 8BC
+    2BC (47.4%) 82AD
+    98AD ( 5.9%) 110AD
+  95.4% probability
+    99BC ( 3.4%) 66BC
+    60BC (90.9%) 179AD
+    185AD ( 1.1%) 200AD
+=mixed_21_2 Curve()
+SUERC-8401 R_Date(1950,35)
+  68.3% probability
+    119AD (68.3%) 231AD
+  95.4% probability
+    24AD (94.0%) 255AD
+    294AD ( 1.5%) 310AD
+=mixed_35_3 Curve()
+SUERC-8402 R_Date(2060,35)
+  68.3% probability
+    20AD (68.3%) 163AD
+  95.4% probability
+    41BC (95.4%) 219AD
+=terrestrial Curve()
+SUERC-8403 R_Date(1665,35)
+  68.3% probability
+    264AD ( 4.6%) 272AD
+    350AD (63.7%) 426AD
+  95.4% probability
+    256AD ( 9.4%) 282AD
+    328AD (72.8%) 440AD
+    452AD ( 4.8%) 479AD
+    495AD ( 8.4%) 535AD
+=terrestrial Curve()
+SUERC-8406 R_Date(2130,35)
+  68.3% probability
+    334BC ( 1.5%) 330BC
+    197BC (62.4%) 100BC
+    68BC ( 4.3%) 60BC
+  95.4% probability
+    350BC (14.3%) 292BC
+    209BC (81.2%) 46BC
+=mixed_23_5 Curve()
+SUERC-8410 R_Date(2095,35)
+  68.3% probability
+    86BC ( 0.9%) 84BC
+    54BC (67.3%) 75AD
+  95.4% probability
+    152BC (95.4%) 124AD
+=terrestrial Curve()
+SUERC-8411 R_Date(1915,35)
+  68.3% probability
+    72AD (59.0%) 168AD
+    186AD ( 9.2%) 202AD
+  95.4% probability
+    24AD (95.4%) 214AD
+=mixed_24_7 Curve()
+SUERC-8896 R_Date(1875,35)
+  68.3% probability
+    213AD (28.7%) 266AD
+    272AD (39.6%) 341AD
+  95.4% probability
+    131AD (95.4%) 393AD
+=mixed_29_4 Curve()
+SUERC-27910 R_Date(2030,30)
+  68.3% probability
+    28AD (68.3%) 166AD
+  95.4% probability
+    36BC ( 3.3%) 12BC
+    2AD (92.1%) 224AD
+=mixed_27_1 Curve()
+SUERC-27911 R_Date(2085,30)
+  68.3% probability
+    42BC (68.3%) 80AD
+  95.4% probability
+    106BC (95.4%) 164AD
+=mixed_31_8 Curve()
+SUERC-27912 R_Date(2010,30)
+  68.3% probability
+    81AD (68.3%) 210AD
+  95.4% probability
+    14AD (95.4%) 245AD
+=mixed_20_0 Curve()
+SUERC-27913 R_Date(1905,30)
+  68.3% probability
+    130AD (68.3%) 249AD
+  95.4% probability
+    81AD ( 2.1%) 98AD
+    110AD (93.4%) 340AD
+=mixed_31_8 Curve()
+SUERC-27914 R_Date(2025,30)
+  68.3% probability
+    68AD (68.3%) 201AD
+  95.4% probability
+    26BC ( 1.0%) 16BC
+    6AD (94.5%) 238AD
+=mixed_30_6 Curve()
+SUERC-27918 R_Date(2050,30)
+  68.3% probability
+    13AD (68.3%) 152AD
+  95.4% probability
+    40BC (95.4%) 210AD
+=mixed_20_0 Curve()
+SUERC-27919 R_Date(1960,30)
+  68.3% probability
+    84AD ( 5.8%) 96AD
+    113AD (62.5%) 214AD
+  95.4% probability
+    24AD (95.4%) 244AD
+=mixed_16_5 Curve()
+SUERC-27920 R_Date(1905,30)
+  68.3% probability
+    130AD (68.3%) 239AD
+  95.4% probability
+    76AD (86.3%) 261AD
+    279AD ( 9.1%) 328AD
+=mixed_23_5 Curve()
+SUERC-27921 R_Date(2000,30)
+  68.3% probability
+    64AD (60.8%) 176AD
+    185AD ( 7.5%) 202AD
+  95.4% probability
+    27BC ( 1.2%) 16BC
+    6AD (94.3%) 234AD
+=mixed_30_6 Curve()
+SUERC-27922 R_Date(2070,30)
+  68.3% probability
+    24BC ( 3.1%) 16BC
+    5AD (65.1%) 122AD
+  95.4% probability
+    48BC (95.4%) 202AD
+=mixed_28_2 Curve()
+SUERC-27923 R_Date(2070,30)
+  68.3% probability
+    28BC ( 6.0%) 15BC
+    4AD (49.9%) 88AD
+    92AD (12.4%) 116AD
+  95.4% probability
+    53BC (95.4%) 202AD
+=mixed_24_7 Curve()
+SUERC-35303 R_Date(2100,30)
+  68.3% probability
+    54BC (68.3%) 70AD
+  95.4% probability
+    149BC ( 2.0%) 131BC
+    122BC (93.4%) 122AD
+=mixed_31_8 Curve()
+SUERC-35304 R_Date(2060,30)
+  68.3% probability
+    6AD (68.3%) 134AD
+  95.4% probability
+    41BC (95.4%) 206AD
+=mixed_36_5 Curve()
+SUERC-35305 R_Date(2180,30)
+  68.3% probability
+    142BC ( 1.5%) 138BC
+    120BC (66.7%) 18AD
+  95.4% probability
+    195BC (95.4%) 80AD
+=mixed_14_1 Curve()
+SUERC-35306 R_Date(2140,30)
+  68.3% probability
+    166BC (68.3%) 46BC
+  95.4% probability
+    346BC ( 3.8%) 316BC
+    204BC (91.6%) 22AD
+=mixed_31_8 Curve()
+SUERC-35307 R_Date(2220,30)
+  68.3% probability
+    177BC (68.3%) 50BC
+  95.4% probability
+    348BC ( 7.5%) 288BC
+    229BC (88.0%) 10AD
+=mixed_22_4 Curve()
+SUERC-35308 R_Date(2125,30)
+  68.3% probability
+    112BC (68.3%) 23AD
+  95.4% probability
+    176BC (95.4%) 81AD
+=terrestrial Curve()
+SUERC-35309 R_Date(1815,30)
+  68.3% probability
+    209AD (48.6%) 252AD
+    292AD (19.7%) 318AD
+  95.4% probability
+    130AD ( 3.1%) 146AD
+    152AD (64.3%) 258AD
+    280AD (28.0%) 330AD
+=mixed_12_9 Curve()
+SUERC-35313 R_Date(1945,30)
+  68.3% probability
+    80AD ( 9.6%) 100AD
+    107AD (58.7%) 210AD
+  95.4% probability
+    20AD (95.4%) 240AD
+=mixed_12_9 Curve()
+SUERC-35314 R_Date(1950,30)
+  68.3% probability
+    80AD (11.3%) 101AD
+    106AD (56.9%) 206AD
+  95.4% probability
+    18AD (95.4%) 238AD
+=mixed_31_8 Curve()
+SUERC-35315 R_Date(1950,30)
+  68.3% probability
+    130AD (68.3%) 248AD
+  95.4% probability
+    80AD (95.4%) 338AD
+=terrestrial Curve()
+SUERC-42223 R_Date(1878,37)
+  68.3% probability
+    125AD (68.3%) 212AD
+  95.4% probability
+    70AD (95.4%) 240AD
+=mixed_12_9 Curve()
+SUERC-42227 R_Date(1858,37)
+  68.3% probability
+    162AD (10.1%) 191AD
+    200AD (34.2%) 259AD
+    280AD (24.0%) 329AD
+  95.4% probability
+    120AD (95.4%) 373AD
+=terrestrial Curve()
+SUERC-42228 R_Date(2003,37)
+  68.3% probability
+    42BC (53.7%) 32AD
+    38AD (14.6%) 60AD
+  95.4% probability
+    94BC ( 2.5%) 75BC
+    55BC (92.9%) 120AD
+=terrestrial Curve()
+SUERC-42229 R_Date(1892,37)
+  68.3% probability
+    88AD ( 1.5%) 91AD
+    120AD (66.8%) 210AD
+  95.4% probability
+    34AD ( 0.4%) 37AD
+    61AD (95.0%) 236AD
+=mixed_15_3 Curve()
+SUERC-42230 R_Date(2077,37)
+  68.3% probability
+    94BC ( 7.5%) 73BC
+    56BC (60.7%) 64AD
+  95.4% probability
+    162BC (95.4%) 118AD
+=mixed_16_5 Curve()
+SUERC-42231 R_Date(2028,37)
+  68.3% probability
+    32BC ( 7.9%) 14BC
+    4AD (60.3%) 118AD
+  95.4% probability
+    88BC ( 0.5%) 82BC
+    54BC (95.0%) 206AD
+=mixed_25_9 Curve()
+SUERC-42232 R_Date(2094,37)
+  68.3% probability
+    50BC (68.3%) 80AD
+  95.4% probability
+    157BC (95.4%) 134AD
+=mixed_15_3 Curve()
+SUERC-42233 R_Date(1854,37)
+  68.3% probability
+    204AD (33.3%) 264AD
+    274AD (35.0%) 342AD
+  95.4% probability
+    124AD (95.4%) 380AD
+duration Knowe of Skea burials Interval()
+( Phase Knowe of Skea burials
+Knowe of Skea burials Phase()
+) Phase Knowe of Skea burials
+end Knowe of Skea burials Boundary()
+( Sequence Knowe of Skea burials floruit
+Knowe of Skea burials floruit Sequence()
+) Sequence Knowe of Skea burials floruit
+i : Using logs - function probability low
+Posterior 
+( MCMC(30000)
+Overall agreement 111.4%
+Dynamic agreement 134.9%
+local_marine Posterior 
+  68.3% probability
+    -140 (68.3%) -76
+  95.4% probability
+    -174 (95.4%) -42
+ Agreement 102.3%
+mixed_12_9 Posterior 
+  68.3% probability
+    2 (68.3%) 17
+  95.4% probability
+    -0 (95.4%) 25
+ Agreement 105.0%
+mixed_14_1 Posterior 
+  68.3% probability
+    10 (68.3%) 28
+  95.4% probability
+    2 (95.4%) 37
+ Agreement  92.4%
+mixed_15_3 Posterior 
+  68.3% probability
+    5 (68.3%) 23
+  95.4% probability
+    -0 (95.4%) 30
+ Agreement 102.5%
+mixed_16_5 Posterior 
+  68.3% probability
+    5 (68.3%) 22
+  95.4% probability
+    -0 (95.4%) 31
+ Agreement 103.9%
+mixed_20_0 Posterior 
+  68.3% probability
+    7 (68.3%) 25
+  95.4% probability
+    -0 (95.4%) 33
+ Agreement 101.8%
+mixed_21_2 Posterior 
+  68.3% probability
+    11 (68.3%) 29
+  95.4% probability
+    2 (95.4%) 38
+ Agreement 103.1%
+mixed_22_4 Posterior 
+  68.3% probability
+    16 (68.3%) 35
+  95.4% probability
+    7 (95.4%) 44
+ Agreement  99.8%
+mixed_23_5 Posterior 
+  68.3% probability
+    17 (68.3%) 35
+  95.4% probability
+    8 (95.4%) 43
+ Agreement 104.1%
+mixed_24_7 Posterior 
+  68.3% probability
+    14 (68.3%) 33
+  95.4% probability
+    5 (95.4%) 41
+ Agreement 102.9%
+mixed_25_9 Posterior 
+  68.3% probability
+    18 (68.3%) 37
+  95.4% probability
+    8 (95.4%) 47
+ Agreement 101.9%
+mixed_27_1 Posterior 
+  68.3% probability
+    18 (68.3%) 38
+  95.4% probability
+    9 (95.4%) 48
+ Agreement 102.2%
+mixed_28_2 Posterior 
+  68.3% probability
+    19 (68.3%) 38
+  95.4% probability
+    10 (95.4%) 48
+ Agreement 101.8%
+mixed_29_4 Posterior 
+  68.3% probability
+    19 (68.3%) 39
+  95.4% probability
+    10 (95.4%) 48
+ Agreement 100.8%
+mixed_30_6 Posterior 
+  68.3% probability
+    21 (68.3%) 40
+  95.4% probability
+    12 (95.4%) 50
+ Agreement 102.2%
+mixed_31_8 Posterior 
+  68.3% probability
+    28 (68.3%) 43
+  95.4% probability
+    20 (95.4%) 51
+ Agreement 107.6%
+mixed_35_3 Posterior 
+  68.3% probability
+    25 (68.3%) 45
+  95.4% probability
+    16 (95.4%) 55
+ Agreement 101.1%
+mixed_36_5 Posterior 
+  68.3% probability
+    30 (68.3%) 49
+  95.4% probability
+    21 (95.4%) 58
+ Agreement 101.2%
+start Knowe of Skea burials Posterior 
+  68.3% probability
+    110BC (68.3%) 56BC
+  95.4% probability
+    152BC (94.5%) 41BC
+    31BC ( 0.9%) 25BC
+SUERC-8400 Posterior 
+  68.3% probability
+    36BC (12.0%) 10BC
+    1AD (48.1%) 84AD
+    96AD ( 8.1%) 113AD
+  95.4% probability
+    54BC (94.3%) 176AD
+    186AD ( 1.2%) 199AD
+ Agreement 103.4%
+SUERC-8401 Posterior 
+  68.3% probability
+    120AD (68.3%) 226AD
+  95.4% probability
+    30AD ( 1.3%) 42AD
+    58AD (94.1%) 254AD
+ Agreement 104.1%
+SUERC-8402 Posterior 
+  68.3% probability
+    18AD (68.3%) 160AD
+  95.4% probability
+    38BC (95.4%) 218AD
+ Agreement 100.7%
+SUERC-8403 Posterior 
+  68.3% probability
+    258AD (68.3%) 274AD
+  95.4% probability
+    244AD (95.4%) 284AD
+Warning! Poor agreement - A= 57.7%(A'c= 60.0%)
+ Poor agreement  57.7%
+SUERC-8406 Posterior 
+  68.3% probability
+    82BC (68.3%) 45BC
+  95.4% probability
+    130BC (88.7%) 36BC
+    16BC ( 6.8%) 6AD
+ Agreement  72.9%
+SUERC-8410 Posterior 
+  68.3% probability
+    46BC (68.3%) 60AD
+  95.4% probability
+    92BC (95.4%) 124AD
+ Agreement 108.8%
+SUERC-8411 Posterior 
+  68.3% probability
+    74AD (59.4%) 166AD
+    186AD ( 8.9%) 202AD
+  95.4% probability
+    24AD (95.4%) 214AD
+ Agreement  99.9%
+SUERC-8896 Posterior 
+  68.3% probability
+    207AD (68.3%) 278AD
+  95.4% probability
+    130AD (95.4%) 300AD
+ Agreement 100.3%
+SUERC-27910 Posterior 
+  68.3% probability
+    28AD (68.3%) 163AD
+  95.4% probability
+    32BC ( 2.4%) 15BC
+    4AD (93.1%) 224AD
+ Agreement 100.5%
+SUERC-27911 Posterior 
+  68.3% probability
+    40BC (68.3%) 76AD
+  95.4% probability
+    86BC ( 1.2%) 72BC
+    60BC (94.3%) 162AD
+ Agreement 103.3%
+SUERC-27912 Posterior 
+  68.3% probability
+    88AD ( 2.1%) 92AD
+    115AD (66.2%) 218AD
+  95.4% probability
+    32AD ( 1.5%) 44AD
+    56AD (94.0%) 249AD
+ Agreement 105.5%
+SUERC-27913 Posterior 
+  68.3% probability
+    156AD (68.3%) 245AD
+  95.4% probability
+    82AD ( 1.9%) 98AD
+    111AD (93.2%) 266AD
+    284AD ( 0.3%) 288AD
+ Agreement 111.3%
+SUERC-27914 Posterior 
+  68.3% probability
+    83AD ( 9.5%) 100AD
+    108AD (58.7%) 205AD
+  95.4% probability
+    28AD (95.4%) 236AD
+ Agreement 103.9%
+SUERC-27918 Posterior 
+  68.3% probability
+    14AD (66.9%) 136AD
+    144AD ( 1.3%) 148AD
+  95.4% probability
+    38BC ( 6.1%) 8BC
+    1BC (89.3%) 210AD
+ Agreement 100.9%
+SUERC-27919 Posterior 
+  68.3% probability
+    82AD ( 9.6%) 99AD
+    109AD (58.7%) 206AD
+  95.4% probability
+    27AD (95.4%) 236AD
+ Agreement  99.8%
+SUERC-27920 Posterior 
+  68.3% probability
+    134AD ( 3.8%) 140AD
+    154AD (64.4%) 240AD
+  95.4% probability
+    80AD ( 2.5%) 100AD
+    108AD (92.9%) 264AD
+ Agreement 110.2%
+SUERC-27921 Posterior 
+  68.3% probability
+    76AD (68.3%) 202AD
+  95.4% probability
+    18AD (95.4%) 234AD
+ Agreement 102.1%
+SUERC-27922 Posterior 
+  68.3% probability
+    22BC ( 2.5%) 16BC
+    6AD (65.8%) 121AD
+  95.4% probability
+    46BC (93.6%) 180AD
+    186AD ( 1.9%) 200AD
+ Agreement 101.2%
+SUERC-27923 Posterior 
+  68.3% probability
+    28BC ( 5.9%) 16BC
+    4AD (51.8%) 86AD
+    95AD (10.6%) 116AD
+  95.4% probability
+    50BC (94.2%) 178AD
+    186AD ( 1.3%) 198AD
+ Agreement 101.3%
+SUERC-35303 Posterior 
+  68.3% probability
+    54BC (61.0%) 32AD
+    42AD ( 7.3%) 58AD
+  95.4% probability
+    95BC (91.9%) 88AD
+    94AD ( 3.5%) 115AD
+ Agreement 110.0%
+SUERC-35304 Posterior 
+  68.3% probability
+    23AD (68.3%) 148AD
+  95.4% probability
+    34BC ( 3.4%) 12BC
+    2AD (92.0%) 214AD
+ Agreement 101.9%
+SUERC-35305 Posterior 
+  68.3% probability
+    78BC (68.3%) 20AD
+  95.4% probability
+    112BC (94.6%) 85AD
+    98AD ( 0.9%) 107AD
+ Agreement 105.7%
+SUERC-35306 Posterior 
+  68.3% probability
+    87BC (54.4%) 32BC
+    16BC (13.9%) 6AD
+  95.4% probability
+    121BC (93.2%) 34AD
+    39AD ( 2.2%) 58AD
+ Agreement  90.8%
+SUERC-35307 Posterior 
+  68.3% probability
+    90BC (62.3%) 36BC
+    11BC ( 6.0%) 1AD
+  95.4% probability
+    127BC (95.4%) 24AD
+ Agreement  91.8%
+SUERC-35308 Posterior 
+  68.3% probability
+    74BC (68.3%) 23AD
+  95.4% probability
+    106BC (94.6%) 83AD
+    100AD ( 0.9%) 108AD
+ Agreement 107.6%
+SUERC-35309 Posterior 
+  68.3% probability
+    205AD (68.3%) 254AD
+  95.4% probability
+    128AD (93.8%) 259AD
+    290AD ( 1.6%) 300AD
+ Agreement 108.0%
+SUERC-35313 Posterior 
+  68.3% probability
+    82AD ( 9.8%) 98AD
+    110AD (58.4%) 205AD
+  95.4% probability
+    27AD ( 4.4%) 50AD
+    54AD (91.0%) 232AD
+ Agreement 103.6%
+SUERC-35314 Posterior 
+  68.3% probability
+    78AD (58.3%) 174AD
+    184AD ( 9.9%) 202AD
+  95.4% probability
+    25AD (95.4%) 225AD
+ Agreement 103.5%
+SUERC-35315 Posterior 
+  68.3% probability
+    170AD (68.3%) 258AD
+  95.4% probability
+    121AD (95.4%) 294AD
+ Agreement 112.7%
+SUERC-42223 Posterior 
+  68.3% probability
+    126AD (68.3%) 211AD
+  95.4% probability
+    74AD (95.4%) 240AD
+ Agreement 100.7%
+SUERC-42227 Posterior 
+  68.3% probability
+    165AD (12.0%) 190AD
+    200AD (56.3%) 260AD
+  95.4% probability
+    124AD (95.4%) 296AD
+ Agreement 110.4%
+SUERC-42228 Posterior 
+  68.3% probability
+    42BC (55.0%) 33AD
+    40AD (13.2%) 60AD
+  95.4% probability
+    54BC (95.4%) 118AD
+ Agreement 102.8%
+SUERC-42229 Posterior 
+  68.3% probability
+    119AD (68.3%) 210AD
+  95.4% probability
+    61AD (95.4%) 236AD
+ Agreement 100.2%
+SUERC-42230 Posterior 
+  68.3% probability
+    56BC (61.5%) 31AD
+    43AD ( 6.8%) 58AD
+  95.4% probability
+    96BC (91.8%) 86AD
+    93AD ( 3.7%) 115AD
+ Agreement 113.3%
+SUERC-42231 Posterior 
+  68.3% probability
+    36BC (11.9%) 12BC
+    2AD (48.1%) 84AD
+    96AD ( 8.4%) 114AD
+  95.4% probability
+    52BC (94.3%) 170AD
+    188AD ( 1.1%) 200AD
+ Agreement 105.2%
+SUERC-42232 Posterior 
+  68.3% probability
+    46BC (68.3%) 69AD
+  95.4% probability
+    95BC (95.4%) 150AD
+ Agreement 106.7%
+SUERC-42233 Posterior 
+  68.3% probability
+    174AD ( 3.2%) 183AD
+    202AD (65.1%) 274AD
+  95.4% probability
+    128AD (95.4%) 298AD
+ Agreement 105.9%
+duration Knowe of Skea burials Posterior 
+  68.3% probability
+    328 (68.3%) 396
+  95.4% probability
+    302 (95.4%) 452
+end Knowe of Skea burials Posterior 
+  68.3% probability
+    260AD (68.3%) 292AD
+  95.4% probability
+    250AD (95.4%) 330AD
+) MCMC(960000)

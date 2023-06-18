@@ -1,0 +1,111 @@
+ // Delta_R values updated for Marine20
+ Options()
+ {
+  Floruit=FALSE;
+ };
+
+Plot()
+ {
+  Sequence("Howe")
+  {
+   Boundary("start Howe");
+   Phase("phase 3")
+   {
+    R_Date("GU-1760", 2405, 75);
+    R_Date("GU-1804", 2420, 55);
+   };
+
+   Label("phase 4");
+   R_Date("GU-1805", 2305, 60);
+
+   After("residual material in phase 5 contexts")
+   {
+     R_Date("GU-1789", 2405, 70); /* charcoal. residual according to excavation report */
+     R_Date("GU-2348", 2280, 50); /* animal bone. residual according to excavation report */
+   };
+
+   Boundary("roundhouse constructed");
+
+   Phase("phase 5/6")
+   {
+/* nothing left to display for phase 5
+    Phase("phase 5")
+    {
+     R_Date("GU-1799", 2380, 50); // human bone in 'drain'. dates suggest it is curated or from an earlier phase
+    };
+*/
+    R_Date("GU-1758", 2255, 95);
+    R_Date("GU-1759", 1940, 60);
+    R_Date("GU-2355", 1930, 120);
+   };
+
+   Label("continues...");
+
+   Page();
+
+   Label("... continued");
+
+   Boundary("broch 2 constructed");
+
+   Phase("phase 7")
+   {
+    R_Date("GU-2351", 1850, 50);
+    R_Date("GU-2349", 1790, 50);
+    // R_Date("GU-1750", 2070, 50); /* charred roof timber - probably predates the fire itself */
+    R_Date("GU-1788", 1935, 55); /* charred wood from a major fire in the broch */
+    R_Date("SUERC-68731", 1946, 25); // from a scattered skeleton in rubble of NW yard - originally an articulated burial?
+    Label("articulated adult skeleton in NW yard");
+    // taking d13C from SUERC-68732 as evidence for terrestrial diet
+    R_Date("SUERC-25599", 1925, 40);
+    /* R_Date("SUERC-68732", 2052, 26); // this and SUERC-25599 fail the chi-squared test and this one looks more out of place */
+   };
+
+   Phase("phase 7/8")
+   {
+    R_Date("GU-2342", 1790, 50);
+    R_Date("GU-2345", 1750, 50);
+
+    Sequence()
+    {
+     Phase("later phase 7")
+     {
+      R_Date("GU-1787", 1670, 55);
+      R_Date("GU-2344", 1810, 50);
+      R_Date("GU-2346", 1750, 50);
+      /* R_Date("GU-2343", 2130, 80); // early date means this bone must be residual */
+      R_Date("GU-2353", 1770, 50);
+      /* R_Date("SUERC-68727", 1901, 29); // likely votive deposit of human bone. removed as possibly curated */
+     };
+
+     Boundary("major broch 2 wall collapse");
+
+     Phase("phase 8")
+     {
+      R_Date("GU-1749", 1565, 45); /* stage 4 */
+      /* R_Date("GU-1756", 2200, 70);  appears to be residual */
+      /* note: there is a direct stratigraphic relationship between GU-2347 & GU-1757, but their dates are the wrong way round */
+      R_Date("GU-2347", 1170, 50); /* stage 5 - animal bone */
+      R_Date("GU-1757", 1450, 50); /* stage 10 - animal bone */
+     };
+    }
+   };
+
+   Boundary("end Howe");
+  };
+
+  Page();
+
+  Sequence("stratified broch 2 floor deposits")
+  {
+   Date("=GU-2351");
+   Date("=GU-2349");
+   Date("=GU-2342");
+   Date("=GU-2345");
+  };
+
+  Sequence("GU-1786 is from a roof timber, so treat as residual")
+  {
+   R_Date("GU-1786", 1975, 55);
+   Date("=GU-2342");
+  };
+ };

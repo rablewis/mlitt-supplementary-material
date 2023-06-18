@@ -1,0 +1,34 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ Floruit=TRUE;
+};
+
+Plot()
+{
+ // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+ Curve("terrestrial", "intcal20.14c");
+
+ Sequence("Skaill site 6")
+ {
+  /* Boundary("start Skaill site 6"); // omit boundary - it squeezes modelled dates at start and end based on assumption of uniform distribution */
+
+  Phase("Level 2/3")
+  {
+   R_Date("Birm-764: pit F28",2020,100);
+   R_Date("Birm-766: Level 2 furnace",1550,100);
+   R_Date("Birm-593: hearth below paving",1760,110);
+  };
+
+  R_Date("Birm-765: Level 1 paving",1360,100);
+
+  Phase("Level 1")
+  {
+   R_Date("Birm-763: low Level 1 deposit",1420,100);
+   R_Date("Birm-592: Level 1 hearth",1500,120);
+   R_Date("Birm-762: Level 1 deposit",1350,100);
+  };
+
+  /* Boundary("end Skaill site 6"); // omit boundary - it squeezes modelled dates at start and end based on assumption of uniform distribution */
+ };
+};

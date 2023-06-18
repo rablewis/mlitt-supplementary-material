@@ -1,0 +1,23 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ // report highest probability density date ranges, rather than compact quantile range
+ Floruit=FALSE;
+};
+
+Plot()
+{
+ // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+ Curve("terrestrial", "intcal20.14c");
+
+ Label("annexe wall packing");
+ R_Date("GU-2208",2470,50);
+
+ Label();
+ Label("roundhouse wall core");
+ R_Date("GU-2207",2510,140);
+
+ Label();
+ Label("peat from ground surface");
+ R_Date("GU-2544",2470,50);
+};

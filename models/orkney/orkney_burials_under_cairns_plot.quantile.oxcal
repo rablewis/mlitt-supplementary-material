@@ -1,0 +1,35 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ Floruit=TRUE;
+};
+
+Plot()
+{
+ // define "terrestrial" calibration curve (using OxCal pre-defined curve for IntCal20: "intcal20.14c")
+ Curve("terrestrial", "intcal20.14c");
+
+ Label("Brough Road Cairn 1");
+ R_Date("GU-1550: skeleton 1", 1640, 70);
+
+ Label("skeleton 2");
+ R_Combine("GU-1551 + TO-7047")
+ {
+  R_Date("GU-1551", 1600, 70);
+  R_Date("TO-7047", 1520, 50);
+ };
+
+ Label("");
+ R_Date("TO-6696: Brough Road Cairn 2", 1430, 40);
+
+ Label("");
+ Label("Hermisgarth Cist 003");
+ R_Combine("GU-4232 + GU-4233")
+ {
+  R_Date("GU-4232", 1480, 80);
+  R_Date("GU-4233", 1580, 100);
+ };
+
+ Label("");
+ R_Date("GU-7245: Bay of Skaill", 1410, 50);
+};

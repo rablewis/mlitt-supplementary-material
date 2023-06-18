@@ -1,0 +1,48 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+terrestrial Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+=terrestrial Curve()
+Skeleton 2, AS (GU-1551 + TO-7047) R_Combine(1547,41)
+  68.3% probability
+    436AD (16.8%) 464AD
+    475AD (15.5%) 500AD
+    508AD ( 3.5%) 516AD
+    530AD (32.3%) 576AD
+  95.4% probability
+    425AD (95.4%) 598AD
+ X2-Test: df=1 T=0.9(5% 3.8)
+=terrestrial Curve()
+Skeleton 1, AN (GU-1550) R_Date(1640,70)
+  68.3% probability
+    364AD (68.3%) 538AD
+  95.4% probability
+    250AD ( 8.7%) 295AD
+    310AD (86.8%) 572AD
+( Combine Brough Road Cairn 1
+Skeleton 2, AS (GU-1551 + TO-7047) Posterior 
+  68.3% probability
+    435AD (24.3%) 465AD
+    474AD (30.8%) 516AD
+    529AD (13.1%) 546AD
+  95.4% probability
+    420AD (95.4%) 568AD
+ Agreement  98.1%
+Skeleton 1, AN (GU-1550) Posterior 
+  68.3% probability
+    435AD (24.3%) 465AD
+    474AD (30.8%) 516AD
+    529AD (13.1%) 546AD
+  95.4% probability
+    420AD (95.4%) 568AD
+ Agreement 103.5%
+Brough Road Cairn 1 Combine()
+ X2-Test: df=1 T=1.223(5% 3.841)
+  68.3% probability
+    435AD (24.3%) 465AD
+    474AD (30.8%) 516AD
+    529AD (13.1%) 546AD
+  95.4% probability
+    420AD (95.4%) 568AD
+ Agreement n=2 Acomb=101.1%(An= 50.0%)
+) Combine Brough Road Cairn 1

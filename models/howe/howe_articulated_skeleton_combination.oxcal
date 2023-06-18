@@ -1,0 +1,14 @@
+// Delta_R values updated for Marine20
+Options()
+{
+ Floruit=FALSE;
+};
+
+Plot()
+ {
+  R_Combine()
+  {
+   R_Date("SUERC-25599", 1925, 40);
+   R_Date("SUERC-68727", 2052, 26);
+  };
+ };

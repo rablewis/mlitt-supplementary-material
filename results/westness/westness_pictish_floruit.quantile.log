@@ -1,0 +1,298 @@
+OxCal v4.4.4 Bronk Ramsey (2021); r:5
+Atmospheric data from Reimer et al (2020)
+TRUE
+OxCal v4.4.4 Bronk Ramsey (2021); r:5 whole
+terrestrial Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+marine Curve(marine20.14c)
+Marine data from Heaton et al (2020)
+local_marine Delta_R(-112,34)
+  68.3% probability
+    -146  -78
+  95.4% probability
+    -180  -44
+mixed_12_9 Mix_Curves(terrestrial,local_marine,12.9,10)
+  68.3% probability
+    6  24
+  95.4% probability
+    1  33
+mixed_15_3 Mix_Curves(terrestrial,local_marine,15.3,10)
+  68.3% probability
+    7  26
+  95.4% probability
+    1  36
+mixed_16_5 Mix_Curves(terrestrial,local_marine,16.5,10)
+  68.3% probability
+    8  27
+  95.4% probability
+    2  37
+mixed_20_0 Mix_Curves(terrestrial,local_marine,20,10)
+  68.3% probability
+    11  30
+  95.4% probability
+    3  40
+mixed_22_4 Mix_Curves(terrestrial,local_marine,22.4,10)
+  68.3% probability
+    13  33
+  95.4% probability
+    4  43
+start Pictish burials Boundary()
+* = revised d13C from Barrett & Richards 2004 Label()
+Label()
+=terrestrial Curve()
+T-6529: grave 25 * R_Date(1530,60)
+  68.3% probability
+    456AD  592AD
+  95.4% probability
+    420AD  638AD
+=mixed_12_9 Curve()
+TO-7196: grave 7 R_Date(1540,40)
+  68.3% probability
+    498AD  625AD
+  95.4% probability
+    438AD  650AD
+=terrestrial Curve()
+T-7471: grave 28a * R_Date(1480,40)
+  68.3% probability
+    562AD  629AD
+  95.4% probability
+    478AD  646AD
+=terrestrial Curve()
+T-7470: grave 32 * R_Date(1410,60)
+  68.3% probability
+    591AD  668AD
+  95.4% probability
+    542AD  764AD
+=terrestrial Curve()
+T-7468: grave 21 * R_Date(1410,30)
+  68.3% probability
+    610AD  651AD
+  95.4% probability
+    594AD  662AD
+=terrestrial Curve()
+T-6528: grave 20 * R_Date(1400,60)
+  68.3% probability
+    599AD  684AD
+  95.4% probability
+    552AD  768AD
+=terrestrial Curve()
+T-7466: grave 24 * R_Date(1400,40)
+  68.3% probability
+    610AD  658AD
+  95.4% probability
+    583AD  750AD
+=terrestrial Curve()
+T-6527: grave 10 * R_Date(1360,70)
+  68.3% probability
+    622AD  760AD
+  95.4% probability
+    572AD  850AD
+=mixed_22_4 Curve()
+T-7465: grave 13 R_Date(1430,40)
+  68.3% probability
+    652AD  761AD
+  95.4% probability
+    606AD  828AD
+=terrestrial Curve()
+T-6817: grave 26 * R_Date(1330,120)
+  68.3% probability
+    614AD  852AD
+  95.4% probability
+    466AD  969AD
+=terrestrial Curve()
+T-7469: grave 19 R_Date(1330,70)
+  68.3% probability
+    654AD  786AD
+  95.4% probability
+    600AD  872AD
+=terrestrial Curve()
+T-6813: grave 6 R_Date(1320,80)
+  68.3% probability
+    657AD  814AD
+  95.4% probability
+    593AD  899AD
+=terrestrial Curve()
+T-6816: grave 18 R_Date(1180,70)
+  68.3% probability
+    754AD  944AD
+  95.4% probability
+    685AD  994AD
+=mixed_20_0 Curve()
+T-7464: grave 9 R_Date(1220,40)
+  68.3% probability
+    820AD  968AD
+  95.4% probability
+    724AD  1012AD
+=mixed_16_5 Curve()
+TO-7198: grave 15 R_Date(1200,40)
+  68.3% probability
+    827AD  972AD
+  95.4% probability
+    732AD  1014AD
+=mixed_15_3 Curve()
+T-7467: grave 17 R_Date(1160,50)
+  68.3% probability
+    859AD  1001AD
+  95.4% probability
+    776AD  1093AD
+duration of Pictish burials Interval()
+( Phase Pictish burials
+Pictish burials Phase()
+) Phase Pictish burials
+end Pictish burials Boundary()
+( Sequence Westness Pictish burials
+Westness Pictish burials Sequence()
+) Sequence Westness Pictish burials
+i : Using logs - function probability low
+Posterior 
+( MCMC(30000)
+Overall agreement  86.7%
+Dynamic agreement  97.6%
+local_marine Posterior 
+  68.3% probability
+    -152  -84
+  95.4% probability
+    -186  -49
+ Agreement  99.0%
+mixed_12_9 Posterior 
+  68.3% probability
+    8  25
+  95.4% probability
+    2  34
+ Agreement  98.7%
+mixed_15_3 Posterior 
+  68.3% probability
+    3  17
+  95.4% probability
+    0  26
+ Agreement  98.1%
+mixed_16_5 Posterior 
+  68.3% probability
+    4  19
+  95.4% probability
+    0  29
+ Agreement  97.8%
+mixed_20_0 Posterior 
+  68.3% probability
+    6  23
+  95.4% probability
+    1  32
+ Agreement  95.4%
+mixed_22_4 Posterior 
+  68.3% probability
+    15  35
+  95.4% probability
+    5  44
+ Agreement  96.4%
+start Pictish burials Posterior 
+  68.3% probability
+    525AD  591AD
+  95.4% probability
+    458AD  618AD
+T-6529: grave 25 * Posterior 
+  68.3% probability
+    563AD  632AD
+  95.4% probability
+    520AD  648AD
+ Agreement  92.1%
+TO-7196: grave 7 Posterior 
+  68.3% probability
+    574AD  637AD
+  95.4% probability
+    546AD  658AD
+ Agreement 113.8%
+T-7471: grave 28a * Posterior 
+  68.3% probability
+    578AD  634AD
+  95.4% probability
+    554AD  648AD
+ Agreement 105.6%
+T-7470: grave 32 * Posterior 
+  68.3% probability
+    602AD  670AD
+  95.4% probability
+    568AD  762AD
+ Agreement 105.5%
+T-7468: grave 21 * Posterior 
+  68.3% probability
+    611AD  651AD
+  95.4% probability
+    596AD  662AD
+ Agreement  99.7%
+T-6528: grave 20 * Posterior 
+  68.3% probability
+    606AD  686AD
+  95.4% probability
+    572AD  766AD
+ Agreement 104.5%
+T-7466: grave 24 * Posterior 
+  68.3% probability
+    611AD  658AD
+  95.4% probability
+    588AD  746AD
+ Agreement 101.0%
+T-6527: grave 10 * Posterior 
+  68.3% probability
+    626AD  757AD
+  95.4% probability
+    586AD  826AD
+ Agreement 103.5%
+T-7465: grave 13 Posterior 
+  68.3% probability
+    652AD  758AD
+  95.4% probability
+    609AD  820AD
+ Agreement 101.8%
+T-6817: grave 26 * Posterior 
+  68.3% probability
+    632AD  808AD
+  95.4% probability
+    574AD  890AD
+ Agreement 114.7%
+T-7469: grave 19 Posterior 
+  68.3% probability
+    654AD  770AD
+  95.4% probability
+    604AD  856AD
+ Agreement 103.5%
+T-6813: grave 6 Posterior 
+  68.3% probability
+    656AD  793AD
+  95.4% probability
+    602AD  870AD
+ Agreement 105.5%
+T-6816: grave 18 Posterior 
+  68.3% probability
+    714AD  867AD
+  95.4% probability
+    676AD  942AD
+ Agreement  97.0%
+T-7464: grave 9 Posterior 
+  68.3% probability
+    776AD  893AD
+  95.4% probability
+    699AD  956AD
+ Agreement  78.7%
+TO-7198: grave 15 Posterior 
+  68.3% probability
+    778AD  898AD
+  95.4% probability
+    704AD  960AD
+ Agreement  76.3%
+T-7467: grave 17 Posterior 
+  68.3% probability
+    778AD  909AD
+  95.4% probability
+    704AD  970AD
+ Agreement  62.7%
+duration of Pictish burials Posterior 
+  68.3% probability
+    244  420
+  95.4% probability
+    149  523
+end Pictish burials Posterior 
+  68.3% probability
+    816AD  960AD
+  95.4% probability
+    738AD  1030AD
+) MCMC(1920000)
