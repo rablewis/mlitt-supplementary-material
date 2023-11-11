@@ -1,3 +1,6 @@
+from os import chdir
+from os.path import dirname
+
 import login
 import workflow
 import c14dates
@@ -24,6 +27,7 @@ def calibrate(cj = None):
 
 
 def c14_record_list():
+    chdir(dirname(__file__) + "\\..")
     c14_rows = parse_csv_file(c14_dates_filepath, True)
     return c14dates.c14_list(c14_rows)
 

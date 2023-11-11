@@ -2,9 +2,10 @@ import urllib.request
 import json
 
 
-# deltaR as calculated by 14chrono web app with respect to marine20 calibration curve - using the 9 data points nearest to Kirkwall
-deltaR_orkney = -112
-deltaR_orkney_error = 34
+# deltaR as calculated by 14chrono web app (http://calib.org/marine/)
+# with respect to marine20 calibration curve - using the 13 data points nearest to Kirkwall
+deltaR_orkney = -107
+deltaR_orkney_error = 36
 
 # note SUERC use -150 +/- 52 (see lab report for SUERC-100073 from The Cairns)
 # note value is -268 +/- 98 calculated using http://calib.org/deltar/ and data from Ashcough 2006 (St Boniface)
