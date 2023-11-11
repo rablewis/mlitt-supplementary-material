@@ -12,7 +12,7 @@
   Curve("marine","marine20.14c");
   // define "local_marine" curve with an appropriate DeltaR - the local divergence from global marine curve (based on patterns of ocean currents)
   // this DeltaR value is average of the 9 nearest measurements (those within 200 km of Kirkwall) from 14CHRONO db, relative to Marine20
-  Delta_R("local_marine",-112,34);
+  Delta_R("local_marine",-107,36);
   // mixed calibration curve with 12.9% +/- 10% marine carbon input
   Mix_Curves("mixed_12_9", "terrestrial", "local_marine", 12.9, 10);
   // etc.

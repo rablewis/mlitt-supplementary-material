@@ -6,11 +6,11 @@ terrestrial Curve(intcal20.14c)
 Atmospheric data from Reimer et al (2020)
 marine Curve(marine20.14c)
 Marine data from Heaton et al (2020)
-local_marine Delta_R(-112,34)
+local_marine Delta_R(-107,36)
   68.3% probability
-    -148 (68.3%) -76
+    -145 (68.3%) -69
   95.4% probability
-    -180 (95.4%) -44
+    -180 (95.4%) -34
 mixed_12_9 Mix_Curves(terrestrial,local_marine,12.9,10)
   68.3% probability
     4 (68.3%) 22
@@ -53,8 +53,7 @@ TO-7196: grave 7 R_Date(1540,40)
   68.3% probability
     545AD (68.3%) 640AD
   95.4% probability
-    434AD (17.6%) 520AD
-    526AD (77.8%) 654AD
+    434AD (95.4%) 655AD
 =terrestrial Curve()
 T-7471: grave 28a * R_Date(1480,40)
   68.3% probability
@@ -105,11 +104,11 @@ T-6527: grave 10 * R_Date(1360,70)
 =mixed_22_4 Curve()
 T-7465: grave 13 R_Date(1430,40)
   68.3% probability
-    646AD (42.5%) 709AD
-    726AD (25.7%) 772AD
+    646AD (41.9%) 709AD
+    725AD (26.3%) 772AD
   95.4% probability
-    598AD (91.1%) 779AD
-    786AD ( 4.4%) 824AD
+    598AD (90.7%) 779AD
+    785AD ( 4.8%) 825AD
 =terrestrial Curve()
 T-6817: grave 26 * R_Date(1330,120)
   68.3% probability
@@ -147,27 +146,27 @@ T-6816: grave 18 R_Date(1180,70)
 =mixed_20_0 Curve()
 T-7464: grave 9 R_Date(1220,40)
   68.3% probability
-    779AD ( 1.2%) 782AD
-    833AD ( 8.4%) 854AD
-    871AD (58.7%) 988AD
+    779AD ( 1.1%) 782AD
+    833AD ( 8.2%) 854AD
+    871AD (58.9%) 990AD
   95.4% probability
-    772AD (95.4%) 1022AD
+    772AD (95.4%) 1024AD
 =mixed_16_5 Curve()
 TO-7198: grave 15 R_Date(1200,40)
   68.3% probability
     779AD ( 1.1%) 782AD
-    836AD ( 4.7%) 848AD
-    874AD (62.4%) 991AD
+    836AD ( 4.6%) 848AD
+    874AD (62.5%) 992AD
   95.4% probability
     772AD (95.4%) 1020AD
 =mixed_15_3 Curve()
 T-7467: grave 17 R_Date(1160,50)
   68.3% probability
-    885AD (68.3%) 1020AD
+    886AD (68.3%) 1020AD
   95.4% probability
-    772AD (94.7%) 1049AD
-    1085AD ( 0.4%) 1092AD
-    1106AD ( 0.4%) 1115AD
+    772AD (94.5%) 1050AD
+    1084AD ( 0.4%) 1093AD
+    1106AD ( 0.5%) 1116AD
 duration of Pictish burials Interval()
 ( Phase Pictish burials
 Pictish burials Phase()
@@ -179,178 +178,175 @@ Westness Pictish burials Sequence()
 i : Using logs - function probability low
 Posterior 
 ( MCMC(30000)
-Overall agreement  88.6%
-Dynamic agreement  99.6%
+Overall agreement  87.5%
+Dynamic agreement  97.4%
 local_marine Posterior 
   68.3% probability
-    -152 (68.3%) -82
+    -150 (68.3%) -78
   95.4% probability
-    -186 (95.4%) -50
- Agreement  99.2%
+    -186 (95.4%) -42
+ Agreement  99.3%
 mixed_12_9 Posterior 
   68.3% probability
-    7 (68.3%) 24
+    7 (68.3%) 25
   95.4% probability
     -0 (95.4%) 32
- Agreement  98.8%
+ Agreement  98.7%
 mixed_15_3 Posterior 
   68.3% probability
     -0 (68.3%) 13
   95.4% probability
     -0 (95.4%) 24
- Agreement  98.2%
+ Agreement  98.3%
 mixed_16_5 Posterior 
   68.3% probability
     1 (68.3%) 17
   95.4% probability
     -0 (95.4%) 26
- Agreement  98.1%
+ Agreement  98.4%
 mixed_20_0 Posterior 
   68.3% probability
     5 (68.3%) 22
   95.4% probability
-    -0 (95.4%) 30
+    -0 (95.4%) 29
  Agreement  95.6%
 mixed_22_4 Posterior 
   68.3% probability
-    16 (68.3%) 36
+    17 (68.3%) 36
   95.4% probability
     5 (95.4%) 44
- Agreement  96.6%
+ Agreement  96.5%
 start Pictish burials Posterior 
   68.3% probability
-    528AD (68.3%) 598AD
+    534AD (68.3%) 599AD
   95.4% probability
-    462AD (95.4%) 629AD
+    477AD (95.4%) 624AD
 T-6529: grave 25 * Posterior 
   68.3% probability
-    564AD (47.8%) 608AD
-    620AD (20.5%) 640AD
+    566AD (45.7%) 610AD
+    617AD (22.6%) 640AD
   95.4% probability
-    527AD (95.4%) 654AD
- Agreement  93.0%
+    534AD (95.4%) 653AD
+ Agreement  91.7%
 TO-7196: grave 7 Posterior 
   68.3% probability
-    579AD (68.3%) 642AD
+    580AD (68.3%) 642AD
   95.4% probability
-    544AD (95.4%) 658AD
- Agreement 113.6%
+    546AD (95.4%) 658AD
+ Agreement 114.0%
 T-7471: grave 28a * Posterior 
   68.3% probability
-    580AD (37.6%) 610AD
-    616AD (30.7%) 641AD
+    582AD (68.3%) 640AD
   95.4% probability
-    554AD (95.4%) 650AD
- Agreement 105.5%
+    555AD (95.4%) 650AD
+ Agreement 105.7%
 T-7470: grave 32 * Posterior 
   68.3% probability
-    596AD (68.3%) 665AD
+    597AD (68.3%) 665AD
   95.4% probability
-    561AD (89.4%) 702AD
-    740AD ( 6.1%) 772AD
- Agreement 105.4%
+    562AD (89.1%) 702AD
+    740AD ( 6.4%) 772AD
+ Agreement 105.5%
 T-7468: grave 21 * Posterior 
   68.3% probability
-    608AD (28.4%) 625AD
-    635AD (39.8%) 655AD
+    607AD (29.3%) 625AD
+    636AD (39.0%) 655AD
   95.4% probability
     598AD (95.4%) 663AD
  Agreement  99.7%
 T-6528: grave 20 * Posterior 
   68.3% probability
-    597AD (68.3%) 670AD
+    596AD (68.3%) 671AD
   95.4% probability
-    564AD (86.6%) 706AD
-    736AD ( 8.8%) 773AD
- Agreement 104.6%
+    566AD (86.0%) 707AD
+    734AD ( 9.5%) 773AD
+ Agreement 104.2%
 T-7466: grave 24 * Posterior 
   68.3% probability
-    608AD (24.2%) 626AD
-    635AD (44.1%) 660AD
+    608AD (24.8%) 626AD
+    635AD (43.4%) 660AD
   95.4% probability
-    580AD (94.6%) 680AD
-    750AD ( 0.8%) 757AD
- Agreement 101.1%
+    580AD (94.5%) 679AD
+    750AD ( 0.9%) 757AD
+ Agreement 100.9%
 T-6527: grave 10 * Posterior 
   68.3% probability
-    608AD ( 8.2%) 625AD
-    636AD (43.3%) 702AD
-    740AD (16.8%) 771AD
+    608AD ( 7.9%) 625AD
+    636AD (42.6%) 703AD
+    739AD (17.8%) 771AD
   95.4% probability
-    576AD (92.1%) 778AD
-    790AD ( 3.3%) 820AD
- Agreement 103.6%
+    578AD (92.0%) 778AD
+    790AD ( 3.4%) 820AD
+ Agreement 103.3%
 T-7465: grave 13 Posterior 
   68.3% probability
-    644AD (48.3%) 707AD
-    738AD (20.0%) 771AD
+    645AD (46.2%) 708AD
+    736AD (22.0%) 772AD
   95.4% probability
-    601AD (92.3%) 778AD
-    788AD ( 3.2%) 818AD
- Agreement 102.0%
+    601AD (92.0%) 779AD
+    787AD ( 3.5%) 818AD
+ Agreement 101.7%
 T-6817: grave 26 * Posterior 
   68.3% probability
-    606AD (67.4%) 775AD
-    794AD ( 0.8%) 797AD
+    608AD (66.1%) 776AD
+    791AD ( 2.2%) 798AD
   95.4% probability
-    566AD (95.4%) 887AD
- Agreement 114.1%
+    570AD (95.4%) 883AD
+ Agreement 114.8%
 T-7469: grave 19 Posterior 
   68.3% probability
-    647AD (39.9%) 712AD
-    720AD (28.4%) 772AD
+    648AD (37.8%) 710AD
+    719AD (30.4%) 772AD
   95.4% probability
-    597AD (93.9%) 834AD
-    852AD ( 1.6%) 870AD
+    596AD (94.3%) 835AD
+    854AD ( 1.1%) 867AD
  Agreement 103.4%
 T-6813: grave 6 Posterior 
   68.3% probability
-    645AD (68.3%) 774AD
+    646AD (68.3%) 774AD
   95.4% probability
-    601AD (95.4%) 871AD
- Agreement 105.4%
+    600AD (95.4%) 870AD
+ Agreement 105.8%
 T-6816: grave 18 Posterior 
   68.3% probability
-    686AD (20.7%) 738AD
-    771AD (47.6%) 870AD
+    701AD (17.3%) 741AD
+    770AD (51.0%) 868AD
   95.4% probability
-    666AD (95.4%) 938AD
- Agreement  96.9%
+    668AD (93.2%) 910AD
+    915AD ( 2.2%) 935AD
+ Agreement  97.6%
 T-7464: grave 9 Posterior 
   68.3% probability
-    772AD (68.3%) 895AD
+    772AD (61.6%) 866AD
+    878AD ( 6.7%) 894AD
   95.4% probability
-    682AD (10.9%) 740AD
-    770AD (84.6%) 964AD
- Agreement  80.2%
+    694AD ( 7.8%) 742AD
+    768AD (87.6%) 962AD
+ Agreement  79.3%
 TO-7198: grave 15 Posterior 
   68.3% probability
-    772AD (55.0%) 865AD
-    872AD (13.3%) 903AD
+    772AD (61.0%) 861AD
+    880AD ( 7.2%) 896AD
   95.4% probability
-    684AD ( 8.5%) 737AD
-    770AD (86.9%) 966AD
- Agreement  78.1%
+    704AD ( 5.4%) 739AD
+    770AD (90.0%) 965AD
+ Agreement  77.2%
 T-7467: grave 17 Posterior 
   68.3% probability
-    772AD (47.6%) 860AD
-    878AD (20.7%) 922AD
+    772AD (53.3%) 856AD
+    882AD (14.9%) 914AD
   95.4% probability
-    684AD ( 7.5%) 736AD
-    770AD (87.9%) 980AD
- Agreement  65.8%
+    705AD ( 4.5%) 738AD
+    770AD (91.0%) 975AD
+ Agreement  63.4%
 duration of Pictish burials Posterior 
   68.3% probability
-    241 (68.3%) 433
+    233 (68.3%) 404
   95.4% probability
-    77 ( 0.5%) 94
-    134 ( 0.2%) 140
-    162 (94.7%) 554
+    170 (95.4%) 502
 end Pictish burials Posterior 
   68.3% probability
-    810AD (68.3%) 967AD
+    795AD (68.3%) 940AD
   95.4% probability
-    695AD ( 0.4%) 701AD
-    714AD ( 1.4%) 734AD
-    778AD (93.6%) 1046AD
+    778AD (95.4%) 1012AD
 ) MCMC(960000)

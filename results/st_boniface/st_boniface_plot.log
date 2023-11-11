@@ -6,94 +6,94 @@ terrestrial Curve(intcal20.14c)
 Atmospheric data from Reimer et al (2020)
 marine Curve(marine20.14c)
 Marine data from Heaton et al (2020)
-local_marine Delta_R(-112,34)
+local_marine Delta_R(-107,36)
   68.3% probability
-    -148 (68.3%) -76
+    -145 (68.3%) -69
   95.4% probability
-    -180 (95.4%) -44
+    -180 (95.4%) -34
 phase 5 Label()
 =local_marine Curve()
 AA-9563: residual? (m) R_Date(3080,50)
   68.3% probability
-    971BC (68.3%) 791BC
+    967BC (68.3%) 786BC
   95.4% probability
-    1099BC (95.4%) 721BC
+    1099BC (95.4%) 712BC
 =local_marine Curve()
 GU-3059: TAQ roundhouse (m) R_Date(2830,50)
   68.3% probability
-    718BC (68.3%) 496BC
+    712BC (68.3%) 488BC
   95.4% probability
-    774BC (95.4%) 392BC
+    772BC (95.4%) 388BC
 =local_marine Curve()
 GU-3271: TAQ roundhouse (m) R_Date(2850,50)
   68.3% probability
-    736BC (68.3%) 524BC
+    733BC (68.3%) 516BC
   95.4% probability
-    786BC (95.4%) 404BC
+    784BC (95.4%) 400BC
 =local_marine Curve()
 GU-3060 (m) R_Date(2740,50)
   68.3% probability
-    588BC (68.3%) 370BC
+    584BC (68.3%) 364BC
   95.4% probability
-    728BC (95.4%) 286BC
+    722BC (95.4%) 272BC
 =local_marine Curve()
 GU-3268 (m) R_Date(2740,50)
   68.3% probability
-    588BC (68.3%) 370BC
+    584BC (68.3%) 364BC
   95.4% probability
-    728BC (95.4%) 286BC
+    722BC (95.4%) 272BC
 =local_marine Curve()
 GU-3273: TPQ enclosure ditch 1 (m) R_Date(2790,50)
   68.3% probability
-    654BC (68.3%) 425BC
+    646BC (68.3%) 416BC
   95.4% probability
-    752BC (95.4%) 361BC
+    750BC (95.4%) 354BC
 Label()
 phase 6.1 Label()
 =local_marine Curve()
 GU-3058: TPQ enclosure ditch 2 (m) R_Date(2620,50)
   68.3% probability
-    406BC (68.3%) 202BC
+    403BC (68.3%) 198BC
   95.4% probability
-    540BC (95.4%) 103BC
+    536BC (95.4%) 96BC
 =local_marine Curve()
 GU-3274: TPQ enclosure ditch 2 (m) R_Date(2570,50)
   68.3% probability
-    364BC (68.3%) 168BC
+    361BC (68.3%) 162BC
   95.4% probability
-    454BC (95.4%) 42BC
+    451BC (95.4%) 36BC
 =local_marine Curve()
 GU-3061 (m) R_Date(2460,50)
   68.3% probability
-    229BC (68.3%) 9BC
+    220BC (68.3%) 1AD
   95.4% probability
-    346BC (95.4%) 75AD
+    342BC (95.4%) 81AD
 =local_marine Curve()
 GU-3062 (m) R_Date(2590,50)
   68.3% probability
-    381BC (68.3%) 186BC
+    377BC (68.3%) 181BC
   95.4% probability
-    490BC (95.4%) 64BC
+    480BC (95.4%) 55BC
 =local_marine Curve()
 GU-3275 (m) R_Date(2490,50)
   68.3% probability
-    270BC (68.3%) 48BC
+    267BC (68.3%) 42BC
   95.4% probability
-    366BC (95.4%) 36AD
+    364BC (95.4%) 46AD
 Label()
 phase 6.2 Label()
 =local_marine Curve()
 GU-3278: TAQ structure 6 (m) R_Date(2330,50)
   68.3% probability
-    62BC (68.3%) 148AD
+    55BC (68.3%) 156AD
   95.4% probability
-    164BC (95.4%) 241AD
+    161BC (95.4%) 246AD
 =local_marine Curve()
 GU-3279: TAQ structure 10 (m) R_Date(2340,50)
   68.3% probability
-    77BC (68.3%) 132AD
+    73BC (68.3%) 140AD
   95.4% probability
-    176BC (95.4%) 233AD
+    172BC (95.4%) 240AD
 Label()
 phase 6.3 Label()
 =terrestrial Curve()
@@ -108,9 +108,9 @@ AA-9565: TAQ structures 7 & 11 R_Date(2115,60)
 =local_marine Curve()
 GU-3282: TAQ structures 7 & 11 (m) R_Date(2250,50)
   68.3% probability
-    40AD (68.3%) 238AD
+    44AD (68.3%) 244AD
   95.4% probability
-    61BC (95.4%) 346AD
+    58BC (95.4%) 354AD
 =terrestrial Curve()
 AA-9564: TAQ structure 19 R_Date(1815,60)
   68.3% probability
@@ -123,140 +123,139 @@ AA-9564: TAQ structure 19 R_Date(1815,60)
 =local_marine Curve()
 GU-3280: TAQ structure 19 (m) R_Date(2430,50)
   68.3% probability
-    190BC (68.3%) 24AD
+    186BC (68.3%) 30AD
   95.4% probability
-    322BC (95.4%) 114AD
+    318BC (95.4%) 124AD
 =local_marine Curve()
 GU-3277: fill of enclosure ditch 2 (m) R_Date(2350,50)
   68.3% probability
-    88BC (68.3%) 122AD
+    84BC (68.3%) 128AD
   95.4% probability
-    188BC (95.4%) 224AD
+    184BC (95.4%) 230AD
 ( MCMC(30000)
-Overall agreement 103.5%
-Dynamic agreement 111.4%
+Overall agreement 103.8%
+Dynamic agreement 112.5%
 local_marine Posterior 
   68.3% probability
-    -146 (68.3%) -82
+    -144 (68.3%) -78
   95.4% probability
-    -176 (95.4%) -50
- Agreement 104.6%
+    -177 (95.4%) -44
+ Agreement 104.4%
 AA-9563: residual? (m) Posterior 
   68.3% probability
-    968BC (68.3%) 792BC
+    965BC (68.3%) 789BC
   95.4% probability
-    1089BC (95.4%) 720BC
- Agreement 101.0%
+    1092BC (95.4%) 721BC
+ Agreement 101.2%
 GU-3059: TAQ roundhouse (m) Posterior 
   68.3% probability
-    718BC (68.3%) 500BC
+    717BC (68.3%) 494BC
   95.4% probability
-    775BC (95.4%) 396BC
- Agreement 100.4%
+    773BC (95.4%) 393BC
+ Agreement 100.6%
 GU-3271: TAQ roundhouse (m) Posterior 
   68.3% probability
-    740BC (68.3%) 529BC
+    738BC (68.3%) 521BC
   95.4% probability
-    788BC (95.4%) 409BC
- Agreement 100.7%
+    786BC (95.4%) 405BC
+ Agreement 100.8%
 GU-3060 (m) Posterior 
   68.3% probability
-    584BC (68.3%) 369BC
+    585BC (68.3%) 369BC
   95.4% probability
-    724BC (95.0%) 294BC
-    288BC ( 0.4%) 280BC
- Agreement 100.8%
+    724BC (95.4%) 276BC
+ Agreement 100.7%
 GU-3268 (m) Posterior 
   68.3% probability
-    588BC (68.3%) 371BC
+    581BC (68.3%) 360BC
   95.4% probability
-    728BC (95.4%) 292BC
+    725BC (95.3%) 283BC
+    272BC ( 0.2%) 269BC
  Agreement 100.8%
 GU-3273: TPQ enclosure ditch 1 (m) Posterior 
   68.3% probability
-    649BC (68.3%) 422BC
+    646BC (68.3%) 415BC
   95.4% probability
-    750BC (95.4%) 364BC
- Agreement 100.4%
+    750BC (95.4%) 360BC
+ Agreement 100.6%
 GU-3058: TPQ enclosure ditch 2 (m) Posterior 
   68.3% probability
-    408BC (68.3%) 206BC
+    406BC (68.3%) 199BC
   95.4% probability
-    540BC (95.4%) 110BC
- Agreement 100.7%
+    536BC (95.4%) 106BC
+ Agreement 100.6%
 GU-3274: TPQ enclosure ditch 2 (m) Posterior 
   68.3% probability
-    364BC (68.3%) 171BC
+    366BC ( 0.7%) 364BC
+    358BC (67.6%) 171BC
   95.4% probability
-    454BC (95.4%) 48BC
- Agreement 100.8%
+    452BC (95.4%) 45BC
+ Agreement 100.9%
 GU-3061 (m) Posterior 
   68.3% probability
-    232BC (68.3%) 18BC
+    221BC (68.3%) 2AD
   95.4% probability
-    346BC (95.4%) 70AD
- Agreement 100.5%
+    341BC (95.4%) 76AD
+ Agreement 100.7%
 GU-3062 (m) Posterior 
   68.3% probability
-    380BC (68.3%) 184BC
+    383BC (68.3%) 188BC
   95.4% probability
-    496BC (95.4%) 80BC
+    488BC (95.4%) 64BC
  Agreement 100.7%
 GU-3275 (m) Posterior 
   68.3% probability
-    285BC ( 1.5%) 278BC
-    262BC (66.7%) 53BC
+    278BC ( 0.6%) 275BC
+    268BC (67.7%) 48BC
   95.4% probability
-    367BC (95.4%) 32AD
- Agreement 100.8%
+    365BC (95.4%) 36AD
+ Agreement 100.6%
 GU-3278: TAQ structure 6 (m) Posterior 
   68.3% probability
-    70BC (68.3%) 144AD
+    54BC (68.3%) 155AD
   95.4% probability
-    162BC (95.4%) 238AD
- Agreement 100.6%
+    162BC (95.4%) 240AD
+ Agreement 100.8%
 GU-3279: TAQ structure 10 (m) Posterior 
   68.3% probability
-    76BC (68.3%) 130AD
+    74BC (68.3%) 135AD
   95.4% probability
-    174BC (95.4%) 229AD
- Agreement 100.5%
+    176BC (95.4%) 234AD
+ Agreement 100.9%
 AA-9565: TAQ structures 7 & 11 Posterior 
   68.3% probability
-    340BC ( 5.7%) 322BC
-    200BC (62.6%) 46BC
+    340BC ( 5.2%) 322BC
+    200BC (63.0%) 48BC
   95.4% probability
-    360BC (16.3%) 274BC
-    261BC ( 1.3%) 244BC
-    235BC (77.8%) 20AD
- Agreement  99.8%
+    360BC (16.0%) 273BC
+    264BC ( 1.6%) 242BC
+    235BC (77.8%) 19AD
+ Agreement  99.9%
 GU-3282: TAQ structures 7 & 11 (m) Posterior 
   68.3% probability
-    41AD (68.3%) 233AD
+    39AD (68.3%) 238AD
   95.4% probability
-    55BC (95.4%) 346AD
- Agreement 100.7%
+    59BC (95.4%) 348AD
+ Agreement 100.4%
 AA-9564: TAQ structure 19 Posterior 
   68.3% probability
-    132AD ( 4.9%) 146AD
-    157AD (12.4%) 192AD
-    199AD (30.0%) 258AD
-    282AD (20.9%) 329AD
+    132AD ( 4.7%) 146AD
+    160AD (42.3%) 257AD
+    282AD (21.2%) 328AD
   95.4% probability
-    81AD ( 1.9%) 98AD
-    112AD (93.6%) 401AD
+    82AD ( 1.8%) 98AD
+    111AD (93.6%) 392AD
  Agreement  99.9%
 GU-3280: TAQ structure 19 (m) Posterior 
   68.3% probability
-    187BC (68.3%) 26AD
+    184BC (68.3%) 26AD
   95.4% probability
-    324BC (95.4%) 112AD
- Agreement 100.8%
+    317BC (95.4%) 118AD
+ Agreement 101.0%
 GU-3277: fill of enclosure ditch 2 (m) Posterior 
   68.3% probability
-    97BC ( 0.8%) 94BC
-    86BC (67.4%) 120AD
+    88BC (68.3%) 124AD
   95.4% probability
-    186BC (95.4%) 220AD
- Agreement 100.5%
+    183BC (95.4%) 221AD
+ Agreement 101.1%
 ) MCMC(240000)

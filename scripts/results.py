@@ -17,6 +17,7 @@ def calculate():
 
 
 def calibrate(cj = None):
+    chdir(dirname(__file__) + "\\..")
     if cj == None:
         cj = login.with_command_line_credentials()
     
@@ -27,11 +28,11 @@ def calibrate(cj = None):
 
 
 def c14_record_list():
-    chdir(dirname(__file__) + "\\..")
     c14_rows = parse_csv_file(c14_dates_filepath, True)
     return c14dates.c14_list(c14_rows)
 
 def process_models(cj = None):
+    chdir(dirname(__file__) + "\\..")
     if cj == None:
         cj = login.with_command_line_credentials()
     
